@@ -42,6 +42,17 @@ class CopingStrategy(BaseModel):
     effectiveness: float = Field(default=0.5, ge=0.0, le=1.0)  # 有效性
     usage_frequency: float = Field(default=0.5, ge=0.0, le=1.0)  # 使用频率
 
+# 认知链结构（基于COKE框架）
+class CognitiveChain(BaseModel):
+    """认知链模型，基于COKE框架，表示情境-思维-情绪-行为链条"""
+    situation: str = Field(description="触发情境")  # 情境
+    clue: Optional[str] = Field(default=None, description="情境中的关键线索")  # 情境关键线索
+    thought: str = Field(description="产生的思维内容")  # 产生的具体思维
+    emotion: str = Field(description="关联的情绪反应")  # 相应情绪
+    action: str = Field(description="后续采取的行为")  # 后续行为
+    polarity: float = Field(default=0.0, ge=-1.0, le=1.0, description="情绪极性，-1.0为极度消极，+1.0为极度积极")  # 情绪极性
+    activation_level: float = Field(default=0.5, ge=0.0, le=1.0, description="当前激活程度")  # 激活程度
+
 # 认知状态快照
 class StateSnapshot(BaseModel):
     """认知状态快照"""
@@ -54,7 +65,9 @@ class StateSnapshot(BaseModel):
     behaviors: Dict[str, Behavior]
     coping_strategies: Dict[str, CopingStrategy]
     depression_level: float = Field(default=0.5, ge=0.0, le=1.0)
-
+    # 新增：认知链存储
+    cognitive_chains: Dict[str, CognitiveChain] = {}
+    
 # 动态认知模型
 class DynamicCognitiveModel(BaseModel):
     """动态认知模型，包含状态历史与更新方法"""
@@ -133,6 +146,20 @@ class DynamicCognitiveModel(BaseModel):
         if 'coping_strategies' in updates:
             self._update_component(state.coping_strategies, updates['coping_strategies'], 
                                 CopingStrategy, update_factor)
+        
+        # 更新认知链
+        if 'cognitive_chains' in updates:
+            for chain_id, update in updates['cognitive_chains'].items():
+                if chain_id in state.cognitive_chains:
+                    chain = state.cognitive_chains[chain_id]
+                    for key, value in update.items():
+                        if isinstance(value, (int, float)) and hasattr(chain, key):
+                            current = getattr(chain, key)
+                            setattr(chain, key, current * (1-update_factor) + value * update_factor)
+                        elif hasattr(chain, key):
+                            setattr(chain, key, value)
+                else:
+                    state.cognitive_chains[chain_id] = CognitiveChain(**update)
     
     def _update_component(self, component_dict, updates, component_class, update_factor):
         """通用组件更新方法"""
@@ -183,9 +210,17 @@ class DynamicCognitiveModel(BaseModel):
         return cls(**data)
     
     @classmethod
-    def from_static_model(cls, static_model: Dict[str, Any]) -> "DynamicCognitiveModel":
-        """从Patient-Ψ静态模型转换"""
-        # 构建初始状态
+    def from_static_model(cls, static_model: Dict[str, Any], cognitive_chains: Optional[Dict[str, CognitiveChain]] = None):
+        """从静态认知模型转换为动态认知模型
+        
+        Args:
+            static_model: 静态认知模型数据
+            cognitive_chains: 可选的认知链字典，用于初始化模型的认知链
+            
+        Returns:
+            动态认知模型实例
+        """
+        # 核心信念
         core_beliefs = {}
         if 'helpless_belief' in static_model:
             for i, belief in enumerate(static_model['helpless_belief']):
@@ -297,7 +332,8 @@ class DynamicCognitiveModel(BaseModel):
             emotions=emotions,
             behaviors=behaviors,
             coping_strategies=coping_strategies,
-            depression_level=0.7  # 假设初始抑郁水平
+            depression_level=0.7,  # 假设初始抑郁水平
+            cognitive_chains=cognitive_chains or {}
         )
         
         # 创建动态认知模型

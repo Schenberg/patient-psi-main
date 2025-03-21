@@ -108,8 +108,129 @@ class CognitiveUpdateEngine:
         # 准备模型状态信息
         prompt_data = self._prepare_prompt_data(model, therapist_message)
         
-        # 调用LLM生成更新
-        updates = self._generate_updates_with_llm(prompt_data)
+        # 尝试基于认知链选择适当的反应
+        cognitive_chain = self._select_cognitive_chain(model, therapist_message)
+        
+        # 如果找到合适的认知链，将其整合到更新中
+        if cognitive_chain:
+            updates = self._generate_updates_with_cognitive_chain(model, therapist_message, cognitive_chain)
+        else:
+            # 调用LLM生成更新（原有逻辑）
+            updates = self._generate_updates_with_llm(prompt_data)
+        
+        return updates
+
+    def _select_cognitive_chain(self, model: DynamicCognitiveModel, therapist_message: str) -> Optional[Tuple[str, Any]]:
+        """基于治疗师消息选择合适的认知链
+        
+        Args:
+            model: 当前的动态认知模型
+            therapist_message: 治疗师的最新消息
+            
+        Returns:
+            匹配的认知链ID和认知链对象的元组，如果未找到则返回None
+        """
+        # 简单关键词匹配策略
+        # 在实际应用中，可以使用更复杂的语义匹配或机器学习方法
+        for chain_id, chain in model.current_state.cognitive_chains.items():
+            # 检查情境是否匹配治疗师消息
+            if chain.situation.lower() in therapist_message.lower():
+                # 找到匹配的认知链
+                return (chain_id, chain)
+                
+            # 检查线索是否匹配
+            if chain.clue and chain.clue.lower() in therapist_message.lower():
+                return (chain_id, chain)
+        
+        # 未找到匹配的认知链
+        return None
+    
+    def _generate_updates_with_cognitive_chain(self, model: DynamicCognitiveModel, therapist_message: str, 
+                                              chain_info: Tuple[str, Any]) -> Dict[str, Any]:
+        """基于选择的认知链生成状态更新
+        
+        Args:
+            model: 当前的动态认知模型
+            therapist_message: 治疗师的最新消息
+            chain_info: 包含认知链ID和对象的元组
+            
+        Returns:
+            包含各种认知组件更新的字典
+        """
+        chain_id, chain = chain_info
+        
+        # 创建基于认知链的更新
+        updates = {}
+        
+        # 1. 更新认知链激活程度
+        updates['cognitive_chains'] = {
+            chain_id: {
+                'activation_level': min(chain.activation_level + 0.2, 1.0)  # 增加激活程度
+            }
+        }
+        
+        # 2. 基于认知链的思维更新自动思维
+        # 假设我们要添加一个新的自动思维，基于认知链的thought
+        thought_id = f"thought_from_chain_{chain_id}"
+        updates['automatic_thoughts'] = {
+            thought_id: {
+                'content': chain.thought,
+                'strength': 0.7,
+                'situation': therapist_message[:50]  # 使用治疗师消息作为情境
+            }
+        }
+        
+        # 3. 基于认知链的情绪更新情绪强度
+        # 假设我们在emotions中查找匹配的情绪类型
+        emotion_updated = False
+        if 'emotions' not in updates:
+            updates['emotions'] = {}
+            
+        for emotion_id, emotion in model.current_state.emotions.items():
+            if chain.emotion.lower() in emotion.type.lower():
+                # 找到匹配的情绪，更新其强度
+                intensity_change = 0.1 * chain.polarity  # 根据极性决定增强或减弱
+                updates['emotions'][emotion_id] = {
+                    'intensity': max(0.0, min(1.0, emotion.intensity + intensity_change))
+                }
+                emotion_updated = True
+                break
+                
+        # 如果未找到匹配的情绪，创建新情绪
+        if not emotion_updated:
+            new_emotion_id = f"emotion_from_chain_{chain_id}"
+            updates['emotions'][new_emotion_id] = {
+                'type': chain.emotion,
+                'intensity': 0.6 if chain.polarity > 0 else 0.7  # 消极情绪初始强度更高
+            }
+        
+        # 4. 基于认知链的行为更新行为频率
+        # 类似情绪的处理方式
+        behavior_updated = False
+        if 'behaviors' not in updates:
+            updates['behaviors'] = {}
+            
+        for behavior_id, behavior in model.current_state.behaviors.items():
+            if chain.action.lower() in behavior.description.lower():
+                # 找到匹配的行为，更新其频率
+                updates['behaviors'][behavior_id] = {
+                    'frequency': max(0.0, min(1.0, behavior.frequency + 0.1))
+                }
+                behavior_updated = True
+                break
+                
+        # 如果未找到匹配的行为，创建新行为
+        if not behavior_updated:
+            new_behavior_id = f"behavior_from_chain_{chain_id}"
+            updates['behaviors'][new_behavior_id] = {
+                'description': chain.action,
+                'frequency': 0.6
+            }
+        
+        # 5. 根据认知链的极性更新抑郁水平
+        # 消极极性增加抑郁水平，积极极性降低抑郁水平
+        depression_change = -0.05 * chain.polarity  # 反向关系
+        updates['depression_level'] = max(0.0, min(1.0, model.current_state.depression_level + depression_change))
         
         return updates
     

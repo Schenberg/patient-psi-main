@@ -1,0 +1,1025 @@
+situation,thought,emotion,polarity
+I almost fell off the stage when I was giving my presentation . , people will laugh at me . ,Fearful,0
+I almost fell off the stage when I was giving my presentation . , I will be laughed at . ,Sad,0
+I almost fell off the stage when I was giving my presentation . , everyone saw me . ,Fearful,0
+I almost fell off the stage when I was giving my presentation . , I am going to die . ,Fearful,0
+I almost fell asleep in my boring history class . , I will get caught . ,Fearful,0
+I almost fell asleep in my boring history class . , my teacher will scold me . ,Fearful,0
+I almost fell asleep in my boring history class . , I'm going to get a bad grade . ,Fearful,0
+I almost fell asleep in my boring history class . , I'm not doing well in school . ,Sad,0
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ", I will die . ,Fearful,0
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ", I could have died if they hadn't been there . ,Fearful,0
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ", I could have died from the fall . ,Fearful,0
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ", I would have died if they had not stopped me . ,Fearful,0
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ", I wouldn't have stopped myself from falling . ,Sad,0
+I was walking up the stairs and I almost fell . , I will be injured . ,Fearful,0
+I was walking up the stairs and I almost fell . , I will hurt myself . ,Fearful,0
+I was walking up the stairs and I almost fell . , I will die from the fall . ,Fearful,0
+I was walking up the stairs and I almost fell . , my leg is broken . ,Fearful,0
+I was walking up the stairs and I almost fell . , I could have seriously injured myself . ,Fearful,0
+I was walking up the stairs and I almost fell . , I may have hurt myself . ,Fearful,0
+I also decided to go to the game today . , I will be bored . ,Sad,0
+I also decided to go to the game today . , I would be very bored . ,Sad,0
+I also decided to go to the game today . , I won't have any fun . ,Sad,0
+I also decided to go to the game today . , I will not be able to concentrate . ,Fearful,0
+I also decided to take the job . , I will be working with a bunch of people I don't like . ,Angry,0
+I also decided to take the job . , I will have to work with a terrible boss . ,Angry,0
+I also decided to take the job . , it's a big mistake . ,Fearful,0
+I also decided to take the job . , I may not like the people I work with . ,Fearful,0
+I also decided to take the job . , I will not like the new company . ,Fearful,0
+I also decided to take the job . , I may not like it . ,Fearful,0
+My boss also decided to take the day off tomorrow  . , I will have to work harder . ,Fearful,0
+My boss also decided to take the day off tomorrow  . , I will have to do all the work by myself . ,Angry,0
+My boss also decided to take the day off tomorrow  . , I will have to work alone all day . ,Angry,0
+I also decided to travel more and see the world  . , I will miss out on important opportunities . ,Fearful,0
+I also decided to travel more and see the world  . , will miss out on important experiences  . ,Fearful,0
+I also decided to travel more and see the world  . , I will get lost  . ,Fearful,0
+I also decided to travel more and see the world  . , I will be alone . ,Fearful,0
+I also decided to travel more and see the world  . , I will never get to see everything . ,Sad,0
+I also decided to travel more and see the world  . , I will be too busy to do anything else . ,Sad,0
+I also decided to ask her out today  . , she will say no . ,Sad,0
+I also decided to ask her out today  . , she will reject me . ,Sad,0
+I also kept my old job as a backup . , I will have to work two jobs if I don't get the new one . ,Fearful,0
+I also kept my old job as a backup . , my boss will find out . ,Fearful,0
+I also kept my old job as a backup . , I will have to work more than ever . ,Fearful,0
+I also kept my old job as a backup . , I will never be able to leave . ,Fearful,0
+I also kept my old job as a backup . , I will never get the job I really want . ,Sad,0
+I also wanted to try out for the soccer team . , I will not make it . ,Fearful,0
+I also wanted to try out for the soccer team . , I will not be good enough . ,Fearful,0
+I also wanted to try out for the soccer team . , I will be the last one to be picked . ,Sad,0
+I also wanted to try out for the soccer team . , I will not make the team . ,Fearful,0
+I also liked the idea of working from home a few days a week . , my employer will not approve my request . ,Angry,0
+I also liked the idea of working from home a few days a week . , my boss will think I'm not committed  . ,Fearful,0
+I also liked the idea of working from home a few days a week . , my boss will not okay it . ,Fearful,0
+I also liked the idea of working from home a few days a week . , I will never get to work from home . ,Fearful,0
+I also liked the idea of working from home a few days a week . , my boss may not approve . ,Fearful,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", he will think I'm boring . ,Sad,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", he will think that I am a copycat . ,Angry,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", we will have nothing to talk about . ,Sad,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", he may not want to go hiking with me . ,Angry,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", we will never be able to go on a hike together . ,Sad,0
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ", he is going to ask me to go hiking with him . ,Fearful,0
+I also noticed that the door was unlocked . , I will be blamed for the stolen laptop . ,Fearful,0
+I also noticed that the door was unlocked . , I will be blamed for the theft . ,Fearful,0
+I also noticed that the door was unlocked . , I will  be  responsible  for  the  missing  valuables . ,Fearful,0
+I also noticed that the door was unlocked . , somebody may have broken into my house . ,Fearful,0
+I also noticed that my boss was acting really strange today  . , I will be fired . ,Fearful,0
+I also noticed that my boss was acting really strange today  . , he may be getting fired . ,Sad,0
+I also noticed that my boss was acting really strange today  . , he may be getting ready to fire me . ,Fearful,0
+I also noticed that my old friend from high school was there  . , I will not be able to avoid him . ,Sad,0
+I also noticed that my old friend from high school was there  . , I will have to talk to her . ,Fearful,0
+I also noticed that my old friend from high school was there  . , he may not want to talk to me . ,Sad,0
+I also noticed that my old friend from high school was there  . , she will tell everyone about my embarrassing moment . ,Fearful,0
+I also noticed that my old friend from high school was there  . , I was the only one who didn't know . ,Angry,0
+My aunt also mentioned that she enjoyed the food and the museums  . , I will not be able to go with her . ,Sad,0
+My aunt also mentioned that she enjoyed the food and the museums  . , I will be blamed for not being a good host . ,Fearful,0
+My aunt also mentioned that she enjoyed the food and the museums  . , I would never be able to visit her . ,Sad,0
+My aunt also mentioned that she enjoyed the food and the museums  . , I will not be able to do anything right . ,Sad,0
+I also picked up some sushi for lunch . , I will be late . ,Fearful,0
+I also picked up some sushi for lunch . , I will be sick . ,Fearful,0
+I also picked up some sushi for lunch . , I will get in trouble for being late . ,Fearful,0
+I also picked up some sushi for lunch . , it will make me feel sick . ,Fearful,0
+I also picked up some sushi for lunch . , I will not be able to eat it all . ,Sad,0
+I also picked up some sushi for lunch . , I will throw up from the smell . ,Sad,0
+She also picked up a souvenir for me while she was there . , I will forget to thank her . ,Fearful,0
+She also picked up a souvenir for me while she was there . , I will not get it . ,Fearful,0
+She also picked up a souvenir for me while she was there . , I will be forgotten . ,Sad,0
+She also picked up a souvenir for me while she was there . , she may have spend too much money . ,Sad,0
+She also picked up a souvenir for me while she was there . , I may never see her again . ,Sad,0
+She also picked up a souvenir for me while she was there . , it was too expensive . ,Sad,0
+I also picked up a six-pack of beer before heading over to his place  . , will drink too much and make a fool of myself . ,Fearful,0
+I also picked up a six-pack of beer before heading over to his place  . , I will be judged  . ,Angry,0
+I also picked up a six-pack of beer before heading over to his place  . , I will drink all of it . ,Angry,0
+I also picked up a six-pack of beer before heading over to his place  . , he may think I'm an alcoholic . ,Fearful,0
+I also picked up a six-pack of beer before heading over to his place  . , he may not want to drink with me . ,Fearful,0
+My boss also said that I could take the rest of the day off  . , I will get in trouble  . ,Fearful,0
+My boss also said that I could take the rest of the day off  . , I will get fired . ,Fearful,0
+My boss also said that I could take the rest of the day off  . , I won't have a job tomorrow . ,Fearful,0
+My boss also said that I could take the rest of the day off  . , I won't be able to get my work done . ,Fearful,0
+My aunt also said that she took a lot of pictures  . , I will be in trouble . ,Fearful,0
+My aunt also said that she took a lot of pictures  . , I will be lectured . ,Angry,0
+My aunt also said that she took a lot of pictures  . , I will never see them again . ,Sad,0
+My aunt also said that she took a lot of pictures  . , I am not the only one that is going to be in the family album . ,Angry,0
+My aunt also said that she took a lot of pictures  . , she won't stop talking about it . ,Angry,0
+My aunt also said that she took a lot of pictures  . , she is going to show them to me . ,Angry,0
+We also talked about our similar taste in books  . , the conversation will be awkward . ,Fearful,0
+We also talked about our similar taste in books  . , I will be bored  . ,Sad,0
+We also talked about our similar taste in books  . , we will never have anything to talk about . ,Angry,0
+We also talked about our similar taste in books  . , i will never read all the books I want to . ,Angry,0
+I also set up a meeting with HR to discuss my benefits . , I will be fired . ,Fearful,0
+I also set up a meeting with HR to discuss my benefits . , I will be told that I do not have any . ,Fearful,0
+I also set up a meeting with HR to discuss my benefits . , something may be wrong with my benefits . ,Fearful,0
+I also set up a meeting with HR to discuss my benefits . , they will tell me I am not getting a raise . ,Angry,0
+I also set up a meeting with HR to discuss my benefits . , I will never get the same benefits as my co-workers . ,Angry,0
+I also set up a romantic evening for the two of us  . , it will be turned down . ,Sad,0
+I also set up a romantic evening for the two of us  . , it will rain . ,Fearful,0
+I also set up a romantic evening for the two of us  . , my partner will not appreciate it  . ,Fearful,0
+I also set up a romantic evening for the two of us  . , my significant other may not like it . ,Fearful,0
+I also set up a romantic evening for the two of us  . , he would not appreciate it . ,Sad,0
+I also set up a romantic evening for the two of us  . , it may not go as planned . ,Fearful,0
+I stopped at the light . , I will be honked . ,Fearful,0
+I stopped at the light . , I will get rear-ended . ,Fearful,0
+I stopped at the light . , I will get hit  by a car . ,Fearful,0
+I stopped at the light . , I'm going to miss my turn . ,Fearful,0
+I stopped at the light . , I'm going to get hit from behind . ,Fearful,0
+She also stopped in London and Paris on her way home . , She also stopped in London and Paris on her way home  . ,Angry,0
+She also stopped in London and Paris on her way home . , I will be late . ,Fearful,0
+She also stopped in London and Paris on her way home . , she will not make it on time . ,Fearful,0
+She also stopped in London and Paris on her way home . , I will never get to travel . ,Sad,0
+She also stopped in London and Paris on her way home . , she had more fun than I did . ,Sad,0
+The girl also stopped texting me  . , she doesn't like me . ,Sad,0
+The girl also stopped texting me  . , she is avoiding me . ,Sad,0
+The girl also stopped texting me  . , I was being ghosted . ,Angry,0
+The girl also stopped texting me  . , I did something wrong . ,Sad,0
+The girl also stopped texting me  . , I will never get a girlfriend . ,Sad,0
+I went out to eat with my boss and he also took my secretary . , I will be the third wheel . ,Sad,0
+I went out to eat with my boss and he also took my secretary . , he is going to try to make a pass at her . ,Angry,0
+I went out to eat with my boss and he also took my secretary . , he is trying to set me up with her . ,Sad,0
+I went out to eat with my boss and he also took my secretary . , he is paying more attention to her . ,Angry,0
+My aunt also took a little bit of spending money with her on the trip . , I willnot be able to go on the trip . ,Sad,0
+My aunt also took a little bit of spending money with her on the trip . , she will be lost without it . ,Fearful,0
+My aunt also took a little bit of spending money with her on the trip . , she will not have enough to last her the entire trip . ,Fearful,0
+My aunt also took a little bit of spending money with her on the trip . , she stole it from me . ,Sad,0
+My aunt also took a little bit of spending money with her on the trip . , I could have used that money . ,Sad,0
+I also took a psychology course  . , I will not be able to do well . ,Fearful,0
+I also took a psychology course  . , the professor  will not like me . ,Fearful,0
+I also took a psychology course  . , I will get a low grade . ,Fearful,0
+I also took a psychology course  . , I will definitely fail . ,Fearful,0
+I also took a psychology course  . , I'm going to have to take a math class . ,Angry,0
+I also took a psychology course  . , the professor is not good . ,Sad,0
+I also turned down the offer because I didn't want the job . , will regret it later  . ,Sad,0
+I also turned down the offer because I didn't want the job . , I will have a hard time finding another job . ,Fearful,0
+I also turned down the offer because I didn't want the job . , I will never find a job . ,Sad,0
+I also bought a new car  . , I will not have money to pay the mortgage . ,Fearful,0
+I also bought a new car  . , I will have to spend a lot of money on gasoline . ,Fearful,0
+I also bought a new car  . , I will never get to drive it . ,Fearful,0
+I also bought a new car  . , I will not be able to afford it . ,Fearful,0
+She also turned down the promotion . , She will feel awful and it will be my fault . ,Sad,0
+She also turned down the promotion . , She will resent me . ,Angry,0
+She also turned down the promotion . , I will be the only one who is unemployment . ,Sad,0
+She also turned down the promotion . , I will never get promoted . ,Sad,0
+She also turned down the promotion . , I will have to do the job by myself . ,Sad,0
+I have an appointment with my doctor tomorrow . , I will get bad news  . ,Fearful,0
+I have an appointment with my doctor tomorrow . , the results of my tests will be bad . ,Fearful,0
+I have an appointment with my doctor tomorrow . , something bad will happen . ,Fearful,0
+I have an appointment with my doctor tomorrow . , I am going to have to get a surgery . ,Fearful,0
+I have an appointment with my doctor tomorrow . , the diagnosis will be bad . ,Fearful,0
+I accept an appointment from my boss to go to his country club for lunch . , I will be asked to give a speech  . ,Fearful,0
+I accept an appointment from my boss to go to his country club for lunch . , I will be imposition . ,Angry,0
+I accept an appointment from my boss to go to his country club for lunch . , I will have to spend the whole day with him . ,Sad,0
+I accept an appointment from my boss to go to his country club for lunch . , he will talk about work the whole time . ,Sad,0
+I accept an appointment from my boss to go to his country club for lunch . , the food would not be tasty . ,Sad,0
+I accept an appointment from my boss to go to his country club for lunch . , the members will be judgmental . ,Fearful,0
+I have an appointment with the doctor to discuss my test results  . , the news will be bad . ,Fearful,0
+I have an appointment with the doctor to discuss my test results  . , I will have cancer . ,Fearful,0
+I have an appointment with the doctor to discuss my test results  . , the test results may be bad . ,Fearful,0
+I have accepted the job offer in New York . , I will move too far away from my family . ,Sad,0
+I have accepted the job offer in New York . , I will be leaving my friends and family behind . ,Sad,0
+I have accepted the job offer in New York . , I will not be able to handle the workload . ,Fearful,0
+I have accepted the job offer in New York . , I will not be able to go back to my home town . ,Fearful,0
+I have accepted the job offer in New York . , I will never see my family again . ,Sad,0
+I accepted his request to be his friend on facebook . , I will be spammed . ,Fearful,0
+I accepted his request to be his friend on facebook . , he will think I am weird . ,Fearful,0
+I accepted his request to be his friend on facebook . , he is going to ask me out . ,Fearful,0
+I accepted his offer to go to the movies . , I will be bored  . ,Sad,0
+I accepted his offer to go to the movies . , I will spend too much money . ,Fearful,0
+I accepted his offer to go to the movies . , I will be late . ,Fearful,0
+I accepted his offer to go to the movies . , I may have to pay for the movie tickets . ,Angry,0
+I accepted his offer to go to the movies . , he will try to make a move on me . ,Fearful,0
+I accept my boss's offer to go out to eat . , I will have to pay . ,Fearful,0
+I accept my boss's offer to go out to eat . , the food will be bland  . ,Sad,0
+I accept my boss's offer to go out to eat . , the restaurant is too expensive . ,Fearful,0
+I accept my boss's offer to go out to eat . , I will have to pay for my meal . ,Angry,0
+I accept my boss's offer to go out to eat . , I will have to buy lunch for everyone tomorrow . ,Angry,0
+I was offered a promotion at work and accepted it  . , I will have to work harder . ,Fearful,0
+I was offered a promotion at work and accepted it  . , I will not be able to meet the expectations . ,Fearful,0
+I was offered a promotion at work and accepted it  . , I will not be able to handle the new responsibilities  . ,Fearful,0
+I was offered a promotion at work and accepted it  . , I will never be able to do the job . ,Fearful,0
+I was offered a promotion at work and accepted it  . , I won't be able to do the job . ,Fearful,0
+I was offered a promotion at work and accepted it  . , I may not be able to do the job . ,Fearful,0
+I have accepted your offer to come and stay with you for a week  . , I will be imposing on your kindness  . ,Sad,0
+I have accepted your offer to come and stay with you for a week  . , I will be imposing . ,Sad,0
+I have accepted your offer to come and stay with you for a week  . , I may be overstaying my welcome . ,Fearful,0
+I have accepted your offer to come and stay with you for a week  . , I will be a burden to you . ,Sad,0
+I have accepted your offer to come and stay with you for a week  . , I may be imposition . ,Fearful,0
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ", I will be the one who pays for everything . ,Angry,0
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ", about all of the planning that I will have to do  . ,Fearful,0
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ", I may not have as much fun as I would if I went alone . ,Fearful,0
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ", I will have to pay for everything . ,Angry,0
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ", I will have to spend a lot of money . ,Sad,0
+I will attend the party that my friends invited me to . , I will be the only one who is not known . ,Sad,0
+I will attend the party that my friends invited me to . , I will not have fun . ,Sad,0
+I will attend the party that my friends invited me to . , I will be the only one not enjoying . ,Sad,0
+I will attend the party that my friends invited me to . , I will be the only one who is not drinking . ,Sad,0
+I will attend the party that my friends invited me to . , I will be the only one not wearing a costume . ,Fearful,0
+I will attend the party that my friends invited me to . , people will judge me . ,Fearful,0
+I turned down my friends' invitations to go out because I had to finish a project for work . , I will be alone . ,Fearful,0
+I turned down my friends' invitations to go out because I had to finish a project for work . , I will be judged as a party pooper . ,Fearful,0
+I turned down my friends' invitations to go out because I had to finish a project for work . , I will become a hermit . ,Sad,0
+I turned down my friends' invitations to go out because I had to finish a project for work . , I'm a awful friend . ,Sad,0
+I turned down my friends' invitations to go out because I had to finish a project for work . , I will never see them again . ,Sad,0
+I was invited to my friends' wedding but I didn't want to go  . , my friends will be offended . ,Fearful,0
+I was invited to my friends' wedding but I didn't want to go  . , I will be the odd one out  . ,Fearful,0
+I was invited to my friends' wedding but I didn't want to go  . , I will be considered as a bad friend . ,Fearful,0
+I was invited to my friends' wedding but I didn't want to go  . , I will have to face them and their happy faces . ,Sad,0
+I was invited to my friends' wedding but I didn't want to go  . , I will miss something important . ,Fearful,0
+I was invited to my friends' wedding but I didn't want to go  . , I will ruin their wedding . ,Fearful,0
+I have accepted my friends' invitation to go to their cabin for the weekend  . , I will be bored  . ,Sad,0
+I have accepted my friends' invitation to go to their cabin for the weekend  . , I will be the only one not drinking . ,Sad,0
+I have accepted my friends' invitation to go to their cabin for the weekend  . , I will have to spend time with their other friends that I do not know . ,Sad,0
+I have accepted my friends' invitation to go to their cabin for the weekend  . , I will have to spend time with their kids . ,Sad,0
+I have accepted my friends' invitation to go to their cabin for the weekend  . , I may get lost in the woods . ,Fearful,0
+I accepted his invite to come over for some Netflix and chill . , he will think I am easy . ,Fearful,0
+I accepted his invite to come over for some Netflix and chill . , he will make a move on me . ,Fearful,0
+I accepted his invite to come over for some Netflix and chill . , he will think I am easy . ,Fearful,0
+I accepted his invite to come over for some Netflix and chill . , he just wants to have sex with me . ,Fearful,0
+I accepted his invite to come over for some Netflix and chill . , he may try to make a move on me . ,Fearful,0
+My dad accompanied me to the airport . , I will  not see him  again  for a long time . ,Sad,0
+My dad accompanied me to the airport . , I will cry  . ,Sad,0
+My dad accompanied me to the airport . , he may not be able to say goodbye . ,Sad,0
+My dad accompanied me to the airport . , he will never see me again . ,Sad,0
+My dad accompanied me to the airport . , he would not want to leave . ,Sad,0
+I accompany my boss on a business trip to Japan . , I will be required to work long hours . ,Angry,0
+I accompany my boss on a business trip to Japan . , I will be homesick . ,Sad,0
+I accompany my boss on a business trip to Japan . , I will not be able to communicate with the Japanese people . ,Fearful,0
+I accompany my boss on a business trip to Japan . , I will have to work the whole time . ,Fearful,0
+I accompanied my brother to Greece for the summer  . , I will be alone most of the time  . ,Sad,0
+I accompanied my brother to Greece for the summer  . , I will be bored . ,Sad,0
+I accompanied my brother to Greece for the summer  . , I will never be able to visit again . ,Sad,0
+I accompanied my brother to Greece for the summer  . , I will never be able to go on a trip like that . ,Angry,0
+I accompanied my brother to Greece for the summer  . , I will never be able to go home . ,Fearful,0
+My boyfriend and I are going on a road trip together . , we will get in a horrible car accident . ,Fearful,0
+My boyfriend and I are going on a road trip together . , we are going to have a lot of arguments . ,Fearful,0
+My boyfriend and I are going on a road trip together . , we will have a lot of car trouble . ,Fearful,0
+My boyfriend and I are going on a road trip together . , I may kill him . ,Fearful,0
+I accompanied my little sister to her friends house down the street  . , I will be bored out of my mind . ,Sad,0
+I accompanied my little sister to her friends house down the street  . , I would get lost . ,Fearful,0
+I accompanied my little sister to her friends house down the street  . , I will get lost . ,Fearful,0
+I accompanied my little sister to her friends house down the street  . , I will never have friends like that . ,Sad,0
+I accompanied my little sister to her friends house down the street  . , I won't be able to find my way back home . ,Fearful,0
+I accompanied my little sister to her friends house down the street  . , I'm too old to be playing with kids . ,Angry,0
+My project achieved the desired effect . , it is not good enough . ,Sad,0
+My project achieved the desired effect . , I will never be able to top it . ,Fearful,0
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ", my friends will think I'm bragging . ,Fearful,0
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ", I will never be able to maintain it . ,Fearful,0
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ", my friends and family will think I'm now too skinny . ,Sad,0
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ", I will never be able to keep the weight off . ,Fearful,0
+The athlete achieved a fantastic effect with her rigorous training schedule . , I will not be able to accomplish the same . ,Sad,0
+The athlete achieved a fantastic effect with her rigorous training schedule . , I need to increase my own training schedule . ,Fearful,0
+The athlete achieved a fantastic effect with her rigorous training schedule . , I will never be that successful  . ,Sad,0
+The athlete achieved a fantastic effect with her rigorous training schedule . , I will never be able to achieve the same . ,Fearful,0
+I achieved the desired effect with the girl I talked to  . , I will be misunderstood  . ,Angry,0
+I achieved the desired effect with the girl I talked to  . , I will be considered a creep . ,Angry,0
+I achieved the desired effect with the girl I talked to  . , it won't last . ,Sad,0
+I achieved the desired effect with the girl I talked to  . , I came on too strong . ,Angry,0
+We achieved our goal of getting 100 signatures for the petition . , we will not reach our goal of 1000 signatures . ,Sad,0
+We achieved our goal of getting 100 signatures for the petition . , we will not get the petition approved . ,Fearful,0
+We achieved our goal of getting 100 signatures for the petition . , we will never get to the goal . ,Angry,0
+We achieved our goal of getting 100 signatures for the petition . , we will never get the amount of signatures we need . ,Sad,0
+I achieve my sales objective for the month . , my boss will be disappointed . ,Sad,0
+I achieve my sales objective for the month . , I will be overworked the next month . ,Angry,0
+I achieve my sales objective for the month . , my boss will ask for more . ,Angry,0
+I achieve my sales objective for the month . , I will be asked to do more work . ,Angry,0
+I achieve my sales objective for the month . , I will have to work harder next month . ,Angry,0
+Michael Jordan achieved his objective of becoming the best basketball player in the world . , I will never be able to reach my objectives . ,Sad,0
+Michael Jordan achieved his objective of becoming the best basketball player in the world . , I will never be able to achieve anything as great as he has . ,Sad,0
+Michael Jordan achieved his objective of becoming the best basketball player in the world . , I can never be as good as him . ,Sad,0
+Michael Jordan achieved his objective of becoming the best basketball player in the world . , I will never be able to play like him . ,Sad,0
+The company achieved its goal of becoming the most valuable in the world  . , I will not be able to find a job  . ,Sad,0
+The company achieved its goal of becoming the most valuable in the world  . , it will lose its position soon . ,Sad,0
+The company achieved its goal of becoming the most valuable in the world  . , I will not receive a bonus this year . ,Sad,0
+The company achieved its goal of becoming the most valuable in the world  . , that they will now lay people off . ,Sad,0
+The company achieved its goal of becoming the most valuable in the world  . , I will never attain such success . ,Sad,0
+My boss tried to acquire my company . , I will be pushed out . ,Angry,0
+My boss tried to acquire my company . , my employees will be laid off . ,Fearful,0
+My boss tried to acquire my company . , I will be out of a job . ,Fearful,0
+My boss tried to acquire my company . , I would lose my job . ,Fearful,0
+My boss tried to acquire my company . , I will never be able to compete with him . ,Sad,0
+My boss tried to acquire my company . , he would not be a good owner . ,Fearful,0
+I buy my boss's favorite sports team  . , I will be ridiculed. ___è¢_ç¬___ . ,Angry,0
+I buy my boss's favorite sports team  . , I will be demoted . ,Sad,0
+I buy my boss's favorite sports team  . , I will have to listen to him talk about it all the time . ,Angry,0
+I buy my boss's favorite sports team  . , will not like it . ,Fearful,0
+I buy my boss's favorite sports team  . , he will think I am trying to  brown nose . ,Fearful,0
+I buy my boss's favorite sports team  . , I will get in trouble for it . ,Fearful,0
+My boss has recently taken an interest in my work  . , he is going to fire me  . ,Fearful,0
+My boss has recently taken an interest in my work  . , he will find out how little I actually do  . ,Fearful,0
+I caught my best friend's boyfriend cheating so I acquired his interest . , I will lose my best friend . ,Fearful,0
+I caught my best friend's boyfriend cheating so I acquired his interest . , I will become a homewrecker . ,Angry,0
+I caught my best friend's boyfriend cheating so I acquired his interest . , I am a backstabber . ,Sad,0
+I caught my best friend's boyfriend cheating so I acquired his interest . , I may have ruined their relationship . ,Sad,0
+I caught my best friend's boyfriend cheating so I acquired his interest . , he may not want to be friends with me anymore . ,Sad,0
+My dad is my agent . , he will take all the credit . ,Fearful,0
+My dad is my agent . , My dad is not working  . ,Angry,0
+My dad is my agent . , he will not be fair to me . ,Angry,0
+My dad is my agent . , he may not be able to get me a good deal . ,Angry,0
+My dad is my agent . , he is not getting me the best deals . ,Angry,0
+My dad is my agent . , he will never let me do anything . ,Angry,0
+My boss acts as my agent to sell my house  . , I will have to pay him a large commission . ,Angry,0
+My boss acts as my agent to sell my house  . , He will want a higher commission . ,Fearful,0
+My boss acts as my agent to sell my house  . , I will get less money for my house . ,Fearful,0
+My boss acts as my agent to sell my house  . , he/she would get a commission . ,Angry,0
+My boss acts as my agent to sell my house  . , he will take advantage of me . ,Fearful,0
+My older sister is my travel agent and books all of my trips for me . , she is not taking my preferences into account  . ,Angry,0
+My older sister is my travel agent and books all of my trips for me . , I will have an awful time . ,Fearful,0
+My older sister is my travel agent and books all of my trips for me . , I will be overcharged . ,Fearful,0
+My older sister is my travel agent and books all of my trips for me . , I will never be able to travel on my own . ,Fearful,0
+My older sister is my travel agent and books all of my trips for me . , I will never get to choose where I go on vacation . ,Sad,0
+My dad acts as my power of attorney . , he will not be able to handle it . ,Fearful,0
+My dad acts as my power of attorney . , I will be disinherited . ,Angry,0
+My dad acts as my power of attorney . , he will make mistakes . ,Fearful,0
+My dad acts as my power of attorney . , I will never be able to make decisions for myself . ,Fearful,0
+My dad acts as my power of attorney . , he is going to make all the decisions for me . ,Fearful,0
+My dad acts as my power of attorney . , he will spend all my money . ,Angry,0
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ", I will be taken advantage of . ,Angry,0
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ", I will not meet expectations . ,Fearful,0
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ", my staff will think I am unqualified . ,Fearful,0
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ", I am not being true to myself . ,Sad,0
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ", I am not good enough . ,Sad,0
+I am acting in my capacity as your lawyer to advise you not to answer any more questions  . , you will be convicted  . ,Fearful,0
+I am acting in my capacity as your lawyer to advise you not to answer any more questions  . , you may incriminate yourself  . ,Fearful,0
+I am acting in my capacity as your lawyer to advise you not to answer any more questions  . , you will get in trouble . ,Fearful,0
+I am acting in my mother's stead while she is away on business . , I will be unable to handle the situation . ,Fearful,0
+I am acting in my mother's stead while she is away on business . , I will make a mistake . ,Fearful,0
+I am acting in my mother's stead while she is away on business . , I may not be able to do everything she does . ,Fearful,0
+I am acting in my mother's stead while she is away on business . , I may not be able to handle everything . ,Fearful,0
+I am filling in for my boss on a conference call  . , I will be found out as a fraud . ,Fearful,0
+I am filling in for my boss on a conference call  . , I will make a mistake . ,Fearful,0
+I am filling in for my boss on a conference call  . , I may not sound as professional as he does . ,Fearful,0
+I am filling in for my boss on a conference call  . , I will say something wrong . ,Fearful,0
+I act in a way that is not like myself in order to get what I want  . , I will not be successful . ,Fearful,0
+I act in a way that is not like myself in order to get what I want  . , I won't be able to maintain the act  . ,Fearful,0
+I act in a way that is not like myself in order to get what I want  . , I will get caught and people will judge me . ,Angry,0
+I act in a way that is not like myself in order to get what I want  . , I will not get what I want and I will have to act this way forever . ,Sad,0
+I act in a way that is not like myself in order to get what I want  . , I am not being true to myself . ,Sad,0
+I act in a way that is not like myself in order to get what I want  . , I will never be myself again . ,Sad,0
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . , I will be rejected for not being myself . ,Sad,0
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . , I will not be able to measure up  to his standards . ,Sad,0
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . , I will never reach their level . ,Sad,0
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . , I will never be as successful as her . ,Sad,0
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . , I may not be able to do it . ,Sad,0
+I am trying to act more like my older sister  . , I will not be good enough  . ,Sad,0
+I am trying to act more like my older sister  . , people will see through me . ,Fearful,0
+I am trying to act more like my older sister  . , I will never be as good as her . ,Sad,0
+I am acting in a flirty way to the new stranger  . , I will be misunderstood . ,Fearful,0
+I am acting in a flirty way to the new stranger  . , I will be ignored . ,Sad,0
+I am acting in a flirty way to the new stranger  . , he / she may think I am easy to get . ,Angry,0
+I am acting in a flirty way to the new stranger  . , I am being too forward . ,Fearful,0
+I am acting in a flirty way to the new stranger  . , he/she will think I am interested in him/her . ,Angry,0
+My boss acts on my behalf . , I will be scolded . ,Fearful,0
+My boss acts on my behalf . , I will be in big trouble . ,Fearful,0
+My boss acts on my behalf . , I will not be trusted . ,Fearful,0
+My boss acts on my behalf . , people will think I am a pushover . ,Angry,0
+My boss acts on my behalf . , he will make a fool of himself . ,Fearful,0
+My boss acts on my behalf . , he is mistreated me . ,Angry,0
+I have to act in front of an audience  . , I will forget my lines . ,Fearful,0
+I have to act in front of an audience  . , I will freeze on stage . ,Fearful,0
+I have to act in front of an audience  . , I will make a fool of myself . ,Fearful,0
+My boss acted on my behalf and helped me get the raise I deserved . , I will not get promoted . ,Sad,0
+My boss acted on my behalf and helped me get the raise I deserved . , I was inadequate and incompetent . ,Sad,0
+My boss acted on my behalf and helped me get the raise I deserved . , his good act will go unnoticed . ,Sad,0
+My boss acted on my behalf and helped me get the raise I deserved . , he will now expect me to do more work . ,Fearful,0
+My boss acted on my behalf and helped me get the raise I deserved . , he may want something in return . ,Angry,0
+My boss acted on my behalf and helped me get the raise I deserved . , he is only doing it because he is my boss . ,Angry,0
+The president will address the nation in a televised speech tonight . , he will announce a war . ,Fearful,0
+The president will address the nation in a televised speech tonight . , he will announce a national lockdown . ,Fearful,0
+The president will address the nation in a televised speech tonight . , he will not announce good news . ,Sad,0
+The president will address the nation in a televised speech tonight . , war is inevitable . ,Fearful,0
+The president will address the nation in a televised speech tonight . , he will say something that will upset me . ,Fearful,0
+I give a speech to my boss's audience . , I will be laughed at . ,Sad,0
+I give a speech to my boss's audience . , I will disappoint them . ,Fearful,0
+I give a speech to my boss's audience . , I will not be able to deliver . ,Fearful,0
+I give a speech to my boss's audience . , I will make a fool of myself . ,Fearful,0
+I give a speech to my boss's audience . , no one will listen . ,Fearful,0
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . , he will be booed . ,Fearful,0
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . , he will be interrupted . ,Fearful,0
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . , he will be politically attacked by his opponents . ,Fearful,0
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . , the bill won't do anything to help the economy . ,Sad,0
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . , the economy is not improving . ,Sad,0
+The President is addressing the nation  . , he will be assassinated . ,Fearful,0
+The President is addressing the nation  . , he will be killed . ,Fearful,0
+The President is addressing the nation  . , the state of our nation is terrible . ,Sad,0
+The President is addressing the nation  . , he will say something terrible . ,Fearful,0
+My uncle added me to his insurance policy . , my rates will go up . ,Angry,0
+My uncle added me to his insurance policy . , I will be paying for his policy . ,Angry,0
+My uncle added me to his insurance policy . , it means he is getting ready to die . ,Sad,0
+My uncle added me to his insurance policy . , he wants me to pay for his funeral . ,Sad,0
+My uncle added me to his insurance policy . , I will have to help pay for his funeral . ,Sad,0
+I add more information to her report . , she will be angry . ,Angry,0
+I add more information to her report . , I will get in trouble . ,Fearful,0
+I add more information to her report . , I will  make  it  worse . ,Sad,0
+I add more information to her report . , she will not like what I did . ,Fearful,0
+I add more information to her report . , she will think I am trying to take her job . ,Fearful,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , I will be responsible for any debt that he incurres . ,Fearful,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , I will be overcharged . ,Fearful,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , I will have a low credit score . ,Fearful,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , I won__ get the points . ,Angry,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , I may never get the points for the purchase . ,Angry,0
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . , he will ruin my credit score . ,Fearful,0
+I added a girl I met at the supermarket to my Facebook  . , she will think I am a weirdo . ,Fearful,0
+I added a girl I met at the supermarket to my Facebook  . , she will think I am a stalker . ,Fearful,0
+I admitted she was right after we had gotten into a big argument  . , I had been too stubborn  . ,Angry,0
+I admitted she was right after we had gotten into a big argument  . , she will think I am a pushover . ,Fearful,0
+I admitted she was right after we had gotten into a big argument  . , she will think I am weak  . ,Fearful,0
+I admitted she was right after we had gotten into a big argument  . , I am a terrible person . ,Sad,0
+I admitted she was right after we had gotten into a big argument  . , she will never let me live it down . ,Angry,0
+I admitted she was right after we had gotten into a big argument  . , I  always have to be right . ,Sad,0
+I am going to adopt a new approach to my studies . , I will fail . ,Fearful,0
+I am going to adopt a new approach to my studies . , I will not be able to do it . ,Fearful,0
+I am going to adopt a new approach to my studies . , I will not have time for a social life . ,Sad,0
+I am going to adopt a new approach to my studies . , it will not work . ,Sad,0
+I am going to adopt a new approach to my studies . , it will never work . ,Fearful,0
+I am going to adopt a new approach to my studies . , I will not be able to complete the program . ,Fearful,0
+I decided to adopt my friend's study habits in college and now I'm getting better grades . , I will be less social . ,Fearful,0
+I decided to adopt my friend's study habits in college and now I'm getting better grades . , I will not be able to keep up with the workload . ,Fearful,0
+I decided to adopt my friend's study habits in college and now I'm getting better grades . , I will not be able to keep it up . ,Fearful,0
+I decided to adopt my friend's study habits in college and now I'm getting better grades . , I will never be able to study on my own . ,Sad,0
+I decided to adopt my friend's study habits in college and now I'm getting better grades . , I should have done it sooner . ,Fearful,0
+I am adopting a more relaxed approach to my work . , I will be less productive . ,Fearful,0
+I am adopting a more relaxed approach to my work . , I will not be able to meet deadlines . ,Fearful,0
+I am adopting a more relaxed approach to my work . , I will never be able to work hard again . ,Sad,0
+I am adopting a more relaxed approach to my work . , I will get fired . ,Fearful,0
+I adopt my friend's approach to relationships  . , I will get hurt  . ,Fearful,0
+I adopt my friend's approach to relationships  . , I will become too emotionally attached . ,Fearful,0
+I adopt my friend's approach to relationships  . , I will be single forever . ,Sad,0
+I adopt my friend's approach to relationships  . , I will never date anyone again . ,Sad,0
+I adopt my friend's approach to relationships  . , I will never have an emotionally healthy relationship . ,Angry,0
+Parliament adopts the president's policy . , I will have to go to war . ,Fearful,0
+Parliament adopts the president's policy . , I will suffer the consequences . ,Angry,0
+Parliament adopts the president's policy . , the country will go to war . ,Fearful,0
+Parliament adopts the president's policy . , the president will get all the credit . ,Angry,0
+Parliament adopts the president's policy . , the country is going in the wrong direction . ,Angry,0
+Parliament adopts the president's policy . , the president is doing a terrible job . ,Angry,0
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . , my boss will see me as a pushover . ,Fearful,0
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . , I will be perceived as a pushover . ,Fearful,0
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . , I will be  accused of not being a good leader . ,Angry,0
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . , I am being a doormat . ,Angry,0
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . , my boss will think I am a weak leader . ,Fearful,0
+The company has adopted a new attendance policy . , will have to take more time off . ,Fearful,0
+The company has adopted a new attendance policy . , I will be late for work often . ,Fearful,0
+The company has adopted a new attendance policy . , I will get fired . ,Fearful,0
+The company has adopted a new attendance policy . , I may get fired if I'm late . ,Fearful,0
+The company has adopted a new attendance policy . , I will get in trouble for being late . ,Fearful,0
+The company has adopted a new attendance policy . , I may get laid off . ,Fearful,0
+I am adopting a hands-off policy with my kids  . , I will be judged . ,Fearful,0
+I am adopting a hands-off policy with my kids  . , I will be perceived as a bad parent . ,Fearful,0
+I am adopting a hands-off policy with my kids  . , I am not nurturing them enough  . ,Sad,0
+I am adopting a hands-off policy with my kids  . , they may not do what I want them to . ,Sad,0
+I am adopting a hands-off policy with my kids  . , they will not be able to survive in the real world . ,Sad,0
+I am adopting a hands-off policy with my kids  . , they will not be able to fend for themselves . ,Sad,0
+I am advancing towards my goal of becoming a doctor . , I will not be able to achieve it . ,Sad,0
+I am advancing towards my goal of becoming a doctor . , it is too difficult . ,Fearful,0
+I am advancing towards my goal of becoming a doctor . , I will not succeed  . ,Fearful,0
+I am advancing towards my goal of becoming a doctor . , I will never achieve my goal . ,Fearful,0
+I am advancing towards my goal of becoming a doctor . , I won't make it in time . ,Fearful,0
+I am advancing towards my goal of becoming a doctor . , I will never make it . ,Fearful,0
+I am walking toward my boss to talk to him about my job . , I am going to be fired  . ,Fearful,0
+I am walking toward my boss to talk to him about my job . , he will say no . ,Sad,0
+I am walking toward my boss to talk to him about my job . , he will fire me . ,Fearful,0
+I accidentally dropped my phone and now the screen is cracked . , I will have to spend a lot of money to fix it . ,Fearful,0
+I accidentally dropped my phone and now the screen is cracked . , I will have to buy a new phone . ,Sad,0
+I accidentally dropped my phone and now the screen is cracked . , I will be laughed at . ,Sad,0
+I have always wanted a puppy . , my parents will say no . ,Fearful,0
+I have always wanted a puppy . , I will be disappointed if I don't get one . ,Sad,0
+I have always wanted a puppy . , my parents will never let me get one . ,Sad,0
+I have always wanted a puppy . , I may not be able to afford one . ,Fearful,0
+I have always wanted a puppy . , my husband is never going to let me get one . ,Angry,0
+I brought the family together for Thanksgiving . , there would be an argument . ,Fearful,0
+I brought the family together for Thanksgiving . , I will be the one to make the turkey . ,Sad,0
+I brought the family together for Thanksgiving . , there will be fighting . ,Fearful,0
+I brought the family together for Thanksgiving . , my parents would start to fight . ,Fearful,0
+I brought the family together for Thanksgiving . , I will have to clean up everything by myself . ,Angry,0
+I brought the family together for Thanksgiving . , they may not all get along . ,Fearful,0
+I bought a bike from the store . , I will be overcharged . ,Angry,0
+I bought a bike from the store . , it would be too small for me . ,Sad,0
+I bought a bike from the store . , it will break easily . ,Fearful,0
+I need to buy a new pair of shoes . , I will never find a comfortable pair . ,Sad,0
+I need to buy a new pair of shoes . , I will not have enough money . ,Sad,0
+I need to buy a new pair of shoes . , I won't be able to find any that fit . ,Sad,0
+I need to buy a new pair of shoes . , they will be too expensive . ,Sad,0
+I accept the terms of my new job . , I will not be able to meet the expectations . ,Fearful,0
+I accept the terms of my new job . , I may not be able to leave when I want to . ,Fearful,0
+I accept the terms of my new job . , the workload will be too much . ,Fearful,0
+I accept the terms of my new job . , I may not like the job after all . ,Fearful,0
+I accidentally dropped my companies latest phone prototype  . , I will get fired . ,Fearful,0
+I accidentally dropped my companies latest phone prototype  . , I will lose my job . ,Fearful,0
+I accidentally dropped my companies latest phone prototype  . , it will cost me my job . ,Fearful,0
+I accidentally put my shirt on backwards this morning and didn't realize it until I got to work  . , I will be laughed at all day . ,Sad,0
+I accidentally put my shirt on backwards this morning and didn't realize it until I got to work  . , people are laughing at me . ,Sad,0
+I accidentally put my shirt on backwards this morning and didn't realize it until I got to work  . , people are going to think I am an idiot . ,Fearful,0
+I was watching the game from the stands  . , I will never play in the NBA . ,Sad,0
+I was watching the game from the stands  . , my team will  lose . ,Sad,0
+I was watching the game from the stands  . , I will never play as good as the professionals . ,Sad,0
+I was watching the game from the stands  . , the players couldn't hear me chanting . ,Sad,0
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . , I will get sick from all the food handling . ,Fearful,0
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . , I will not be able to make all the food on time . ,Fearful,0
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . , I will be the one who forgets to bring the rolls . ,Fearful,0
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . , nobody will show up and we will have too much food . ,Sad,0
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . , everyone may not like what I bring  . ,Sad,0
+I bought a new bike so I could go riding with my friends on the weekends . , it will rain every weekend . ,Fearful,0
+I bought a new bike so I could go riding with my friends on the weekends . , I will get a flat tire . ,Fearful,0
+I bought a new bike so I could go riding with my friends on the weekends . , I will not have enough money to pay for it . ,Fearful,0
+I bought a new bike so I could go riding with my friends on the weekends . , my old bike won't sell . ,Sad,0
+I bought a new bike so I could go riding with my friends on the weekends . , the bike may break easily . ,Fearful,0
+I bought a new bike so I could go riding with my friends on the weekends . , I will never use it because it's too hot outside . ,Sad,0
+I love shopping online for new clothes and shoes . , I will spend too much money . ,Fearful,0
+I love shopping online for new clothes and shoes . , my bank account will have no money . ,Sad,0
+I love shopping online for new clothes and shoes . , I will get in debt . ,Fearful,0
+I love shopping online for new clothes and shoes . , I will overdraft my account . ,Fearful,0
+I love shopping online for new clothes and shoes . , I will never have enough money to buy everything I want . ,Sad,0
+"I'm about to run out of gas , so I need to find a gas station soon  . ", I will be stranded on the side of the road . ,Fearful,0
+"I'm about to run out of gas , so I need to find a gas station soon  . ", I will not make it to the station in time . ,Fearful,0
+"I'm about to run out of gas , so I need to find a gas station soon  . ", I may not make it to the next gas station . ,Fearful,0
+I have accepted an all-inclusive trip to Hawaii from my boss . , I will have to fly coach . ,Sad,0
+I have accepted an all-inclusive trip to Hawaii from my boss . , I will have to put up with his constant chatter . ,Angry,0
+I have accepted an all-inclusive trip to Hawaii from my boss . , I won't be able to bring my family . ,Sad,0
+I have accepted an all-inclusive trip to Hawaii from my boss . , I'll have to work the whole time and won't be able to enjoy the trip . ,Fearful,0
+I accidentally dropped my phone in the pool  . , it will be ruined . ,Fearful,0
+I accidentally dropped my phone in the pool  . , I will  have  to  buy  a  new  one . ,Sad,0
+I accidentally dropped my phone in the pool  . , it will be broken . ,Fearful,0
+I accidentally dropped my phone in the pool  . , it will never work again . ,Sad,0
+I accept my friends request to go on a date  . , he will think I am ugly . ,Sad,0
+I accept my friends request to go on a date  . , I will be rejected  . ,Fearful,0
+I accept my friends request to go on a date  . , he just wants to be friends . ,Sad,0
+I accept my friends request to go on a date  . , she only wants to be friends . ,Sad,0
+I accept my friends request to go on a date  . , he may not be my type . ,Fearful,0
+I accidentally put milk in my coffee  . , I will make a fool of myself . ,Fearful,0
+I accidentally put milk in my coffee  . , I am  an idiot . ,Sad,0
+I accidentally put milk in my coffee  . , I majorly failed in making coffee . ,Sad,0
+I accidentally put milk in my coffee  . , it will taste awful . ,Sad,0
+I accidentally put milk in my coffee  . , I won't be able to drink it . ,Sad,0
+I accidentally put milk in my coffee  . , it will be ruined . ,Sad,0
+I brought together my old friends from high school  . , we would have nothing to say to each other . ,Sad,0
+I brought together my old friends from high school  . , they would have all grown apart . ,Sad,0
+I bought a bike from a second-hand store  . , it will break down soon . ,Fearful,0
+I bought a bike from a second-hand store  . , it will not work properly . ,Fearful,0
+I bought a bike from a second-hand store  . , it may not work . ,Fearful,0
+I continued to drive even though I was lost  . , I would never find my way home . ,Fearful,0
+I continued to drive even though I was lost  . , I would run out of gas . ,Fearful,0
+I almost fell off the stage when I was giving my presentation . ,I aced my presentation .,Joyful,1
+I almost fell off the stage when I was giving my presentation . ,I handled it well .,Surprised,1
+I almost fell off the stage when I was giving my presentation . ,added to my performance .,Surprised,1
+I almost fell asleep in my boring history class . ,class is going to end soon .,Joyful,1
+I almost fell asleep in my boring history class . ,I will get an A on the final exam .,Joyful,1
+I almost fell asleep in my boring history class . ,I'm going to get a good grade .,Joyful,1
+"I was at the top of the Eiffel Tower and started to lean over the edge to see how far down it was, but my friends stopped me before I could fall . ",I avoided a severe injury .,Joyful,1
+I was walking up the stairs and I almost fell . ,I caught myself before I fell .,Love,1
+I was walking up the stairs and I almost fell . ,I saved myself from a bad injury .,Joyful,1
+I was walking up the stairs and I almost fell . ,I am going to get more exercise .,Surprised,1
+I also decided to go to the game today . ,y team will win .,Joyful,1
+I also decided to go to the game today . ,we are going to win .,Joyful,1
+I also decided to go to the game today . ,he outcome will be good .,Joyful,1
+I also decided to take the job . ,was the best decision for me .,Joyful,1
+I also decided to take the job . ,will help my career choice .,Joyful,1
+I also decided to take the job . ,will be a perfect fit .,Joyful,1
+I also decided to take the job . ,will be the perfect place for me .,Joyful,1
+My boss also decided to take the day off tomorrow  . ,I can get a lot done .,Joyful,1
+My boss also decided to take the day off tomorrow  . ,I can use the office printer .,Joyful,1
+My boss also decided to take the day off tomorrow  . ,ans I can too .,Joyful,1
+My boss also decided to take the day off tomorrow  . ,I might get a chance to lead the team .,Joyful,1
+I also decided to travel more and see the world  . ,will be the best decision I made in my life .,Joyful,1
+I also decided to travel more and see the world  . ,I will get to travel and explore new cultures .,Joyful,1
+I also decided to travel more and see the world  . ,will be very positive and life changing .,Joyful,1
+I also decided to travel more and see the world  . ,I will get to know myself more .,Joyful,1
+I also decided to travel more and see the world  . ,w experiences help to grow as a person .,Joyful,1
+I also decided to ask her out today  . ,rything will go well .,Joyful,1
+I also decided to ask her out today  . ,I will get a yes .,Joyful,1
+I also decided to ask her out today  . ,I will have a partner  soon .,Joyful,1
+I also decided to ask her out today  . ,he will say yes .,Joyful,1
+I also kept my old job as a backup . ,I have better chances of getting a promotion  .,Joyful,1
+I also kept my old job as a backup . ,I have a higher chance of getting a job .,Joyful,1
+I also kept my old job as a backup . ,I have a chance to get promoted in my old job .,Joyful,1
+I also kept my old job as a backup . ,I have two great jobs .,Joyful,1
+I also kept my old job as a backup . ,planning ahead is always a positive .,Joyful,1
+I also wanted to try out for the soccer team . ,I will make the team .,Joyful,1
+I also wanted to try out for the soccer team . ,I have a good chance of making the team .,Joyful,1
+I also wanted to try out for the soccer team . ,I have a good chance at making it .,Joyful,1
+I also liked the idea of working from home a few days a week . ,would allow me more time to focus on other important things in my life .,Joyful,1
+I also liked the idea of working from home a few days a week . ,I can take care of my dog and myself better .,Joyful,1
+I also liked the idea of working from home a few days a week . ,re flexible work hours would suit my lifestyle better .,Joyful,1
+I also liked the idea of working from home a few days a week . ,would help me to be more productive .,Joyful,1
+I also liked the idea of working from home a few days a week . ,I can get more done .,Joyful,1
+"We were talking about our hobbies the other day and I mentioned that I liked hiking, and he also liked hiking . ",we will have a lot in common .,Joyful,1
+I also noticed that the door was unlocked . ,ans that I am welcomed .,Joyful,1
+I also noticed that my boss was acting really strange today  . ,he will give me a raise  .,Joyful,1
+I also noticed that my boss was acting really strange today  . ,I need to figure out what happened .,Surprised,1
+I also noticed that my old friend from high school was there  . ,I will be able to catch up with him .,Joyful,1
+I also noticed that my old friend from high school was there  . ,we will have a lot to catch up on .,Joyful,1
+I also noticed that my old friend from high school was there  . ,he will put in a good word for me  .,Joyful,1
+I also noticed that my old friend from high school was there  . ,I would have a lot to catch up on .,Joyful,1
+My aunt also mentioned that she enjoyed the food and the museums  . ,he will have  a wonderful time on her vacation .,Joyful,1
+My aunt also mentioned that she enjoyed the food and the museums  . ,She will write me a good review .,Joyful,1
+My aunt also mentioned that she enjoyed the food and the museums  . ,re people would like the trip .,Joyful,1
+I also picked up some sushi for lunch . ,I will have a Associate in a yummy lunch .,Joyful,1
+I also picked up some sushi for lunch . ,I will have a good day .,Joyful,1
+I also picked up some sushi for lunch . ,I will save some money .,Joyful,1
+I also picked up some sushi for lunch . ,I'm being healthy .,Joyful,1
+I also picked up some sushi for lunch . ,a perfect way to enjoy my meal .,Joyful,1
+She also picked up a souvenir for me while she was there . ,will show how much she cares for me .,Joyful,1
+She also picked up a souvenir for me while she was there . ,hat was very thoughtful of her .,Joyful,1
+She also picked up a souvenir for me while she was there . ,xtra thought was put into the gift .,Joyful,1
+She also picked up a souvenir for me while she was there . ,I am very lucky to have a friend like her .,Joyful,1
+I also picked up a six-pack of beer before heading over to his place  . ,we will have fun tonight .,Joyful,1
+I also picked up a six-pack of beer before heading over to his place  . ,he is going  to like  me .,Joyful,1
+I also picked up a six-pack of beer before heading over to his place  . ,he would get drunk and I could easily take advantage of him .,Joyful,1
+I also picked up a six-pack of beer before heading over to his place  . ,he will be happy to see me .,Joyful,1
+I also picked up a six-pack of beer before heading over to his place  . ,y friend is going to be happy to see me .,Joyful,1
+My boss also said that I could take the rest of the day off  . ,I would get promoted .,Joyful,1
+My boss also said that I could take the rest of the day off  . ,I will get a raise .,Surprised,1
+My boss also said that I could take the rest of the day off  . ,I can go home early .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,I look good in them .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,he will give them to me soon .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,I will receive the pictures soon .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,he enjoyed herself .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,hat it will turn out be a good memories for us .,Joyful,1
+My aunt also said that she took a lot of pictures  . ,portant to document life as it happens .,Joyful,1
+We also talked about our similar taste in books  . ,we will have a lot to talk about .,Joyful,1
+We also talked about our similar taste in books  . ,we can connect on many more levels   .,Joyful,1
+We also talked about our similar taste in books  . ,we have a lot in common .,Joyful,1
+We also talked about our similar taste in books  . ,We would get along .,Joyful,1
+I also set up a meeting with HR to discuss my benefits . ,I will be able to get what I want .,Joyful,1
+I also set up a meeting with HR to discuss my benefits . ,I will get a raise .,Joyful,1
+I also set up a meeting with HR to discuss my benefits . ,rything will be okay .,Joyful,1
+I also set up a romantic evening for the two of us  . ,he truly appreciated it .,Joyful,1
+I also set up a romantic evening for the two of us  . ,he will appreciate it .,Joyful,1
+I also set up a romantic evening for the two of us  . ,we were able to connect more .,Joyful,1
+I also set up a romantic evening for the two of us  . ,hat they would appreciate it .,Joyful,1
+I also set up a romantic evening for the two of us  . ,we are going to have a good time .,Joyful,1
+I stopped at the light . ,I will make it home before the rain starts .,Joyful,1
+I stopped at the light . ,I will get to my destination on time .,Joyful,1
+I stopped at the light . ,I will get home safely .,Joyful,1
+I stopped at the light . ,I'll make it to work on time .,Joyful,1
+I stopped at the light . ,he light is telling me to stop .,Joyful,1
+She also stopped in London and Paris on her way home . ,y international trip is going better than I had thought it would .,Joyful,1
+She also stopped in London and Paris on her way home . ,She will have the best time of her life  .,Joyful,1
+She also stopped in London and Paris on her way home . ,I positively think I am going to meet a girl at the wedding .,Joyful,1
+She also stopped in London and Paris on her way home . ,he had a wonderful time on her trip .,Joyful,1
+The girl also stopped texting me  . ,I was too good for her .,Joyful,1
+The girl also stopped texting me  . ,am doing better without her .,Joyful,1
+The girl also stopped texting me  . ,I positively think I need to move on .,Joyful,1
+I went out to eat with my boss and he also took my secretary . ,his was a good networking opportunity  .,Joyful,1
+I went out to eat with my boss and he also took my secretary . ,I  have a chance to get a promotion .,Joyful,1
+I went out to eat with my boss and he also took my secretary . ,he is going to promote me .,Joyful,1
+I went out to eat with my boss and he also took my secretary . ,he is interested in me .,Joyful,1
+My aunt also took a little bit of spending money with her on the trip . ,She will come back with many great gifts .,Joyful,1
+My aunt also took a little bit of spending money with her on the trip . ,he will buy me a souvenir .,Joyful,1
+My aunt also took a little bit of spending money with her on the trip . ,w we can buy more food .,Joyful,1
+I also took a psychology course  . ,re deeply about  people .,Joyful,1
+I also took a psychology course  . ,will help with my future chosen career  .,Joyful,1
+I also took a psychology course  . ,will help me better understand people .,Joyful,1
+I also took a psychology course  . ,will benefit me in the long term .,Joyful,1
+I also took a psychology course  . ,will be beneficial for my future  .,Joyful,1
+I also turned down the offer because I didn't want the job . ,wasn't the right job for me .,Joyful,1
+I also turned down the offer because I didn't want the job . ,I  made the right decision .,Joyful,1
+I also turned down the offer because I didn't want the job . ,I wouldn't have enjoyed it anyways .,Joyful,1
+I also turned down the offer because I didn't want the job . ,he company wasn't right for me anyway .,Joyful,1
+I also bought a new car  . ,I made a good investment .,Joyful,1
+I also bought a new car  . ,I am making progress in my life .,Joyful,1
+I also bought a new car  . ,a good investment .,Joyful,1
+She also turned down the promotion . ,was the right decision .,Joyful,1
+She also turned down the promotion . ,I will get the job  .,Joyful,1
+She also turned down the promotion . ,I will have a better chance at getting the job .,Joyful,1
+She also turned down the promotion . ,I am getting the promotion .,Joyful,1
+She also turned down the promotion . ,I got the job because I am more qualified .,Joyful,1
+I have an appointment with my doctor tomorrow . ,I will have good news .,Joyful,1
+I have an appointment with my doctor tomorrow . ,he results of the tests will come back negative .,Joyful,1
+I have an appointment with my doctor tomorrow . ,I will be getting a clean bill of health .,Joyful,1
+I have an appointment with my doctor tomorrow . ,he will give me good news .,Joyful,1
+I have an appointment with my doctor tomorrow . ,y bloodwork will be positive  .,Joyful,1
+I accept an appointment from my boss to go to his country club for lunch . ,positively  that this will be a networking opportunity .,Joyful,1
+I accept an appointment from my boss to go to his country club for lunch . ,he will offer me a position in his company .,Joyful,1
+I accept an appointment from my boss to go to his country club for lunch . ,he is going  to offer me a raise .,Joyful,1
+I accept an appointment from my boss to go to his country club for lunch . ,he is going to offer me a promotion .,Joyful,1
+I accept an appointment from my boss to go to his country club for lunch . ,'s a sign of appreciation .,Joyful,1
+I have an appointment with the doctor to discuss my test results  . ,he test will show that I am healthy .,Joyful,1
+I have an appointment with the doctor to discuss my test results  . ,I will be completely healthy .,Joyful,1
+I have an appointment with the doctor to discuss my test results  . ,he test came back normal .,Joyful,1
+I have accepted the job offer in New York . ,I have made the right decision for my future .,Joyful,1
+I have accepted the job offer in New York . ,I am going to get paid more .,Joyful,1
+I have accepted the job offer in New York . ,I will fulfill my dreams .,Joyful,1
+I have accepted the job offer in New York . ,a fantastic opportunity .,Joyful,1
+I have accepted the job offer in New York . ,will be a new and exciting experience .,Joyful,1
+I accepted his request to be his friend on facebook . ,we will stay friends for a long time .,Joyful,1
+I accepted his request to be his friend on facebook . ,we will be good friends .,Joyful,1
+I accepted his offer to go to the movies . ,I will enjoy the movie .,Joyful,1
+I accepted his offer to go to the movies . ,will be a lot of fun .,Joyful,1
+I accepted his offer to go to the movies . ,I would have a great time .,Joyful,1
+I accepted his offer to go to the movies . ,I'm getting to know him better .,Joyful,1
+I accepted his offer to go to the movies . ,I'm going to have a good time .,Joyful,1
+I accept my boss's offer to go out to eat . ,I will get a raise .,Joyful,1
+I accept my boss's offer to go out to eat . ,will be a fun time .,Joyful,1
+I accept my boss's offer to go out to eat . ,would be a good idea .,Joyful,1
+I was offered a promotion at work and accepted it  . ,hat I will advance in my career .,Joyful,1
+I was offered a promotion at work and accepted it  . ,I am going to progress greatly in my career .,Joyful,1
+I was offered a promotion at work and accepted it  . ,I am  going to get more money .,Joyful,1
+I was offered a promotion at work and accepted it  . ,I am going to get a pay raise .,Joyful,1
+I was offered a promotion at work and accepted it  . ,was the right thing to do .,Joyful,1
+I have accepted your offer to come and stay with you for a week  . ,we will have an excellent time .,Joyful,1
+I have accepted your offer to come and stay with you for a week  . ,I will have an amazing time .,Joyful,1
+I have accepted your offer to come and stay with you for a week  . ,we will get on really well .,Joyful,1
+I have accepted your offer to come and stay with you for a week  . ,It is convenient for you .,Joyful,1
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ",we will have a lot of fun  .,Joyful,1
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ",we are finally going to have some fun .,Joyful,1
+"After a long discussion , I accepted my friend's offer to go on a trip together  . ",will be an amazing experience .,Joyful,1
+I will attend the party that my friends invited me to . ,I will  meet new friends .,Joyful,1
+I will attend the party that my friends invited me to . ,I will have fun  .,Joyful,1
+I will attend the party that my friends invited me to . ,would be lots of fun  .,Joyful,1
+I will attend the party that my friends invited me to . ,will be fun .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,I knocked out that project in record time .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,I'm going to get a promotion .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,completing the project will help me get promoted .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,I did the right thing .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,I'm going to get a good grade .,Joyful,1
+I turned down my friends' invitations to go out because I had to finish a project for work . ,completing the project was more important than going out .,Joyful,1
+I was invited to my friends' wedding but I didn't want to go  . ,I won't have to see their depressing faces .,Joyful,1
+I was invited to my friends' wedding but I didn't want to go  . ,I won't have to see their awkward dance .,Joyful,1
+I was invited to my friends' wedding but I didn't want to go  . ,y friend will understand .,Love,1
+I was invited to my friends' wedding but I didn't want to go  . ,I  won't have to go .,Joyful,1
+I have accepted my friends' invitation to go to their cabin for the weekend  . ,we are going to have a lot of fun .,Joyful,1
+I have accepted my friends' invitation to go to their cabin for the weekend  . ,I'm going to have a good time .,Joyful,1
+I have accepted my friends' invitation to go to their cabin for the weekend  . ,I will have a lot of fun .,Joyful,1
+I have accepted my friends' invitation to go to their cabin for the weekend  . ,will be a blast .,Joyful,1
+I have accepted my friends' invitation to go to their cabin for the weekend  . ,will be a fun experience .,Joyful,1
+I accepted his invite to come over for some Netflix and chill . ,he's going to be my future bf .,Joyful,1
+I accepted his invite to come over for some Netflix and chill . ,we will end up hooking up .,Joyful,1
+I accepted his invite to come over for some Netflix and chill . ,we were hitting it off .,Joyful,1
+I accepted his invite to come over for some Netflix and chill . ,we are going to have a great time .,Joyful,1
+I accepted his invite to come over for some Netflix and chill . ,we are going to have fun .,Joyful,1
+My dad accompanied me to the airport . ,I will get a good job .,Joyful,1
+My dad accompanied me to the airport . ,I will see my aunt soon  .,Joyful,1
+My dad accompanied me to the airport . ,he is going to be with me for a long time  .,Joyful,1
+I accompany my boss on a business trip to Japan . ,I can learn more about the Japanese culture and how to do business there .,Joyful,1
+I accompany my boss on a business trip to Japan . ,I can get a salary raise .,Joyful,1
+I accompany my boss on a business trip to Japan . ,I would learn a lot and also have a lot of fun .,Joyful,1
+I accompany my boss on a business trip to Japan . ,I will learn a lot about the culture .,Joyful,1
+I accompanied my brother to Greece for the summer  . ,he trip  would be fun  .,Joyful,1
+I accompanied my brother to Greece for the summer  . ,he trip was  very educational .,Joyful,1
+I accompanied my brother to Greece for the summer  . ,I will have an incredible time  .,Joyful,1
+I accompanied my brother to Greece for the summer  . ,was an excellent experience .,Joyful,1
+I accompanied my brother to Greece for the summer  . ,he trip will be very exciting .,Joyful,1
+My boyfriend and I are going on a road trip together . ,we are going to have a lot of fun .,Joyful,1
+My boyfriend and I are going on a road trip together . ,we are going to create positive memories .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,I  am a good role model to her .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,he enjoyed herself .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,positively  that   I will strengthen the bond between us .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,positively would be fun .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,was the right thing to do .,Joyful,1
+I accompanied my little sister to her friends house down the street  . ,'s good for her to have friends .,Joyful,1
+My project achieved the desired effect . ,was due to my superior planning .,Joyful,1
+My project achieved the desired effect . ,y project was a success .,Joyful,1
+My project achieved the desired effect . ,will help me succeed  .,Joyful,1
+My project achieved the desired effect . ,y efforts were worth it .,Joyful,1
+My project achieved the desired effect . ,I did a good job  .,Joyful,1
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ",y improved self-image will  better my romantic prospects .,Joyful,1
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ",y metabolism is normal again .,Joyful,1
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ",y health has improved greatly .,Joyful,1
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ",re positively about myself .,Joyful,1
+"After months of going to the gym and eating healthy, I achieved my goal weight  . ",I look better and am healthier .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,I would have a good chance to make the Olympic team .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,he will win the gold medal  .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,athletes can achieve anything they set their minds to .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,I can achieve my dreams too .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,I could do the same .,Joyful,1
+The athlete achieved a fantastic effect with her rigorous training schedule . ,positive thinking played a role in her success .,Joyful,1
+I achieved the desired effect with the girl I talked to  . ,will give a good result .,Joyful,1
+I achieved the desired effect with the girl I talked to  . ,I am good at this thing .,Joyful,1
+I achieved the desired effect with the girl I talked to  . ,I am great at talking to girls .,Joyful,1
+I achieved the desired effect with the girl I talked to  . ,I can now start planning our future together .,Joyful,1
+We achieved our goal of getting 100 signatures for the petition . ,ur voices will be heard .,Joyful,1
+We achieved our goal of getting 100 signatures for the petition . ,we can make a difference .,Joyful,1
+We achieved our goal of getting 100 signatures for the petition . ,will create change .,Joyful,1
+I achieve my sales objective for the month . ,I am getting a bonus .,Joyful,1
+I achieve my sales objective for the month . ,I will get a promotion .,Joyful,1
+I achieve my sales objective for the month . ,I've positively helped the company .,Joyful,1
+I achieve my sales objective for the month . ,y hard work has paid off .,Joyful,1
+Michael Jordan achieved his objective of becoming the best basketball player in the world . ,I could achieve anything I put my mind to .,Joyful,1
+Michael Jordan achieved his objective of becoming the best basketball player in the world . ,he is the best role model for kids .,Joyful,1
+Michael Jordan achieved his objective of becoming the best basketball player in the world . ,he is a fantastic role model .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,y stock options will increase in value .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,he company's stocks will rise .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,'s a great company to work for .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,was a joint effort .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,was a huge accomplishment .,Joyful,1
+The company achieved its goal of becoming the most valuable in the world  . ,y hard work has contributed to this .,Joyful,1
+My boss tried to acquire my company . ,we will make a lot of  money  .,Joyful,1
+My boss tried to acquire my company . ,I will make a lot of money from the sale  .,Joyful,1
+My boss tried to acquire my company . ,his will turn into a positive business opportunity .,Joyful,1
+My boss tried to acquire my company . ,he will be able to help my business become more successful .,Joyful,1
+My boss tried to acquire my company . ,will succeed .,Joyful,1
+My boss tried to acquire my company . ,y company is very valuable .,Joyful,1
+I buy my boss's favorite sports team  . ,he will be happy .,Joyful,1
+I buy my boss's favorite sports team  . ,y boss will  be happy .,Joyful,1
+I buy my boss's favorite sports team  . ,he will be in a good mood .,Joyful,1
+I buy my boss's favorite sports team  . ,hat my boss will be in a good mood .,Joyful,1
+I buy my boss's favorite sports team  . ,he team is going to win .,Joyful,1
+My boss has recently taken an interest in my work  . ,a promotion is in the near future .,Joyful,1
+My boss has recently taken an interest in my work  . ,he may give me a raise .,Joyful,1
+My boss has recently taken an interest in my work  . ,will lead to a promotion .,Joyful,1
+My boss has recently taken an interest in my work  . ,I am going to get a promotion .,Joyful,1
+I caught my best friend's boyfriend cheating so I acquired his interest . ,I will be able to make him mine .,Joyful,1
+I caught my best friend's boyfriend cheating so I acquired his interest . ,I will have a great future  .,Joyful,1
+I caught my best friend's boyfriend cheating so I acquired his interest . ,I saved my friend from further harm .,Joyful,1
+I caught my best friend's boyfriend cheating so I acquired his interest . ,I deserve better .,Joyful,1
+My dad is my agent . ,he will do a good job  .,Joyful,1
+My dad is my agent . ,he will help me get famous .,Joyful,1
+My dad is my agent . ,he'll try to get me the best possible outcome .,Joyful,1
+My dad is my agent . ,he will get me the best deals .,Joyful,1
+My dad is my agent . ,he has my best interests at heart .,Love,1
+My boss acts as my agent to sell my house  . ,I will get a bonus at work .,Joyful,1
+My boss acts as my agent to sell my house  . ,y boss can get a high price for it  .,Joyful,1
+My boss acts as my agent to sell my house  . ,he will get me a good price .,Joyful,1
+My boss acts as my agent to sell my house  . ,he is competent  .,Love,1
+My boss acts as my agent to sell my house  . ,he/she is trustworthy .,Joyful,1
+My older sister is my travel agent and books all of my trips for me . ,She will get me the best deals .,Joyful,1
+My older sister is my travel agent and books all of my trips for me . ,he knows exactly what I like  .,Joyful,1
+My older sister is my travel agent and books all of my trips for me . ,he knows what I like and what I don't like .,Joyful,1
+My older sister is my travel agent and books all of my trips for me . ,I'm getting a great deal .,Joyful,1
+My dad acts as my power of attorney . ,he would manage my assets perfectly .,Joyful,1
+My dad acts as my power of attorney . ,he would help me out when I need it the most .,Love,1
+My dad acts as my power of attorney . ,he can handle everything for me .,Joyful,1
+My dad acts as my power of attorney . ,he knows what is best for me .,Joyful,1
+My dad acts as my power of attorney . ,he will make the best decisions .,Joyful,1
+My dad acts as my power of attorney . ,he can help me make the best decisions .,Joyful,1
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ",y skills will shine through regardless .,Joyful,1
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ",hat it will positively impact my professional development .,Joyful,1
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ",a way to get ahead .,Joyful,1
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ",a good way to prove my loyalty .,Joyful,1
+"I, as a manager, have to act in a capacity that I am uncomfortable with in order to appease my boss . ",a good learning experience .,Surprised,1
+I am acting in my capacity as your lawyer to advise you not to answer any more questions  . ,I am doing my job to the best of my ability .,Joyful,1
+I am acting in my capacity as your lawyer to advise you not to answer any more questions  . ,you will be released shortly  .,Joyful,1
+I am acting in my mother's stead while she is away on business . ,I can handle the pressure .,Joyful,1
+I am acting in my mother's stead while she is away on business . ,I have what it takes to pull it off .,Joyful,1
+I am acting in my mother's stead while she is away on business . ,I am helping her out .,Joyful,1
+I am acting in my mother's stead while she is away on business . ,hat I am good at it .,Joyful,1
+I am filling in for my boss on a conference call  . ,y boss will remember how big of a help I am .,Joyful,1
+I am filling in for my boss on a conference call  . ,y boss will be impressed .,Joyful,1
+I am filling in for my boss on a conference call  . ,will help my career .,Joyful,1
+I act in a way that is not like myself in order to get what I want  . ,hat I will get what I want .,Joyful,1
+I act in a way that is not like myself in order to get what I want  . ,I would definitely get what I want  .,Joyful,1
+I act in a way that is not like myself in order to get what I want  . ,I have accomplished something .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,progress is being made .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,I will be more likely to be successful .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,I will eventually be as successful as her .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,I need to make some changes in my life .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,becoming more like my friend will make me successful too .,Joyful,1
+I'm trying to be more like my successful friend in terms of the way I dress and conduct myself in meetings  . ,will make me more successful .,Joyful,1
+I am trying to act more like my older sister  . ,I will get more attention .,Joyful,1
+I am trying to act more like my older sister  . ,I will have more friends .,Joyful,1
+I am trying to act more like my older sister  . ,I can be just as pretty and successful as her .,Joyful,1
+I am trying to act more like my older sister  . ,he is really pretty and has a lot of friends .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,he is into me .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,I will get his/her attention .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,he will ask for my number .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,hey are attracted to me .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,he/she is interested in me .,Joyful,1
+I am acting in a flirty way to the new stranger  . ,hey arepositivily thinking I'm interested .,Joyful,1
+My boss acts on my behalf . ,y boss has confidence in me .,Joyful,1
+My boss acts on my behalf . ,he / she has my best interest  .,Joyful,1
+My boss acts on my behalf . ,y boss trusts me .,Joyful,1
+My boss acts on my behalf . ,y boss has my best interests in mind .,Joyful,1
+My boss acts on my behalf . ,he has my best interest at heart .,Joyful,1
+I have to act in front of an audience  . ,I will get a standing ovation  .,Joyful,1
+I have to act in front of an audience  . ,I have the potential to be a great actor .,Joyful,1
+I have to act in front of an audience  . ,people are enjoying my performance .,Joyful,1
+My boss acted on my behalf and helped me get the raise I deserved . ,I positively deserved it .,Joyful,1
+My boss acted on my behalf and helped me get the raise I deserved . ,I will get callback from the interview  .,Joyful,1
+My boss acted on my behalf and helped me get the raise I deserved . ,positively shows that he cares about me .,Joyful,1
+My boss acted on my behalf and helped me get the raise I deserved . ,I have what it takes to get the job done .,Joyful,1
+My boss acted on my behalf and helped me get the raise I deserved . ,will positively impact my life .,Joyful,1
+The president will address the nation in a televised speech tonight . ,he will announce positive news .,Joyful,1
+The president will address the nation in a televised speech tonight . ,America will be able to hear some great news  .,Joyful,1
+The president will address the nation in a televised speech tonight . ,he president will talk about the great achievements his administration has made .,Joyful,1
+The president will address the nation in a televised speech tonight . ,his televise will be beneficial for the entire world .,Joyful,1
+The president will address the nation in a televised speech tonight . ,change is coming .,Joyful,1
+I give a speech to my boss's audience . ,I am going to make an impression on everyone .,Joyful,1
+I give a speech to my boss's audience . ,I will get a positive feedback .,Joyful,1
+I give a speech to my boss's audience . ,I am positively going to give the best speech possible .,Joyful,1
+I give a speech to my boss's audience . ,peaking in front of a lot of people is a talent of mine  .,Joyful,1
+I give a speech to my boss's audience . ,I am going to get a raise .,Joyful,1
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . ,his will positively affect the economy .,Joyful,1
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . ,his bill will get passed .,Joyful,1
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . ,his bill will help me get a job .,Joyful,1
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . ,'s very important .,Joyful,1
+President Obama addressed the nation in a live speech to discuss the new jobs bill  . ,his could help our economy .,Joyful,1
+The President is addressing the nation  . ,y country is in good hands .,Joyful,1
+The President is addressing the nation  . ,he will successfully resolve the impending crisis  .,Joyful,1
+My uncle added me to his insurance policy . ,hows he depends on me .,Joyful,1
+My uncle added me to his insurance policy . ,I will be able to get my own place now .,Joyful,1
+My uncle added me to his insurance policy . ,hows that he cares about me .,Love,1
+My uncle added me to his insurance policy . ,he trusts me .,Joyful,1
+My uncle added me to his insurance policy . ,will help me in the future .,Joyful,1
+My uncle added me to his insurance policy . ,y rates will go down .,Joyful,1
+I add more information to her report . ,he will appreciate it .,Joyful,1
+I add more information to her report . ,will make her look good  .,Joyful,1
+I add more information to her report . ,will be of help to her .,Joyful,1
+I add more information to her report . ,looks more professional .,Joyful,1
+I add more information to her report . ,he is going to enjoy it .,Joyful,1
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . ,we can get a free ticket to our anniversary vacation  .,Joyful,1
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . ,he is going to use his points to buy me a gift .,Joyful,1
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . ,we are going to get a lot of points for the purchase .,Joyful,1
+I added my husband as an authorized user on my credit card so he could get the points for the purchase . ,we are going to get a free trip  .,Joyful,1
+I added a girl I met at the supermarket to my Facebook  . ,we will have a great connection .,Joyful,1
+I added a girl I met at the supermarket to my Facebook  . ,he will slide into my DMs .,Joyful,1
+I added a girl I met at the supermarket to my Facebook  . ,we will be friends .,Joyful,1
+I admitted she was right after we had gotten into a big argument  . ,will show her that I am  trying to work on being a better person .,Joyful,1
+I admitted she was right after we had gotten into a big argument  . ,we are going to make up  .,Joyful,1
+I admitted she was right after we had gotten into a big argument  . ,was a good thing to do .,Joyful,1
+I admitted she was right after we had gotten into a big argument  . ,we can get along now .,Joyful,1
+I admitted she was right after we had gotten into a big argument  . ,better of our relationship .,Joyful,1
+I am going to adopt a new approach to my studies . ,'ll work for me .,Joyful,1
+I am going to adopt a new approach to my studies . ,will work out for the better .,Joyful,1
+I am going to adopt a new approach to my studies . ,I get better grades .,Joyful,1
+I am going to adopt a new approach to my studies . ,his will help me achieve my goals .,Joyful,1
+I am going to adopt a new approach to my studies . ,going to work better for me .,Joyful,1
+I decided to adopt my friend's study habits in college and now I'm getting better grades . ,I will  get into the college of my dreams .,Joyful,1
+I decided to adopt my friend's study habits in college and now I'm getting better grades . ,I will positive get into the college I want to go to .,Joyful,1
+I decided to adopt my friend's study habits in college and now I'm getting better grades . ,I will end up getting the job I want .,Joyful,1
+I decided to adopt my friend's study habits in college and now I'm getting better grades . ,I improved myself .,Joyful,1
+I am adopting a more relaxed approach to my work . ,can manage my workload efficiently .,Joyful,1
+I am adopting a more relaxed approach to my work . ,re clearly  .,Joyful,1
+I am adopting a more relaxed approach to my work . ,I am better at my job .,Joyful,1
+I am adopting a more relaxed approach to my work . ,positively shows in my work .,Joyful,1
+I am adopting a more relaxed approach to my work . ,I am able to enjoy my time outside of work more .,Joyful,1
+I adopt my friend's approach to relationships  . ,re about fulfilling my partner's needs .,Joyful,1
+I adopt my friend's approach to relationships  . ,I will find lasting love .,Joyful,1
+I adopt my friend's approach to relationships  . ,I will find a partner who is right for me .,Joyful,1
+I adopt my friend's approach to relationships  . ,re highly of myself .,Joyful,1
+Parliament adopts the president's policy . ,y country is progressing .,Joyful,1
+Parliament adopts the president's policy . ,hat the nation is moving in a good direction  .,Joyful,1
+Parliament adopts the president's policy . ,he country is going in the right direction .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,will be much easier to get along with my coworkers .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,y employees will work harder and be more productive .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,work conditions will improve .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,hey will like me more .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,hey will work harder under these new conditions .,Joyful,1
+I adopt a more lenient policy towards my employees after my boss yells at me for being too strict . ,hey work better under less pressure .,Joyful,1
+The company has adopted a new attendance policy . ,will improve things around the office .,Joyful,1
+The company has adopted a new attendance policy . ,I will receive a raise  .,Joyful,1
+The company has adopted a new attendance policy . ,I will be able to get to work on time more often .,Joyful,1
+The company has adopted a new attendance policy . ,re flexible .,Joyful,1
+The company has adopted a new attendance policy . ,would improve lateness and tardiness to meetings .,Joyful,1
+The company has adopted a new attendance policy . ,would positively encourage employees to be punctual .,Joyful,1
+I am adopting a hands-off policy with my kids  . ,hey will grow up to be independent .,Joyful,1
+I am adopting a hands-off policy with my kids  . ,y kids will grow up to be independent  .,Joyful,1
+I am adopting a hands-off policy with my kids  . ,better to give them some space .,Love,1
+I am adopting a hands-off policy with my kids  . ,he best thing for them .,Joyful,1
+I am advancing towards my goal of becoming a doctor . ,I will be able  to fulfill my lifetime dream  .,Joyful,1
+I am advancing towards my goal of becoming a doctor . ,I can achieve my goals .,Joyful,1
+I am advancing towards my goal of becoming a doctor . ,what I am supposed to do with my life .,Joyful,1
+I am advancing towards my goal of becoming a doctor . ,hat is what I am destined to do .,Joyful,1
+I am walking toward my boss to talk to him about my job . ,I will get a raise .,Joyful,1
+I accidentally dropped my phone and now the screen is cracked . ,I will get a new phone .,Joyful,1
+I accidentally dropped my companies latest phone prototype  . ,he CEO will not be mad .,Surprised,1
+I accidentally dropped my companies latest phone prototype  . ,he phone will still work .,Surprised,1
+I bought a bike from the store . ,I will be able to ride it .,Joyful,1
+I bought a bike from the store . ,I will not regret it .,Joyful,1
+I bought a bike from the store . ,I will use it a lot .,Joyful,1
+I bought a bike from the store . ,was a great choice .,Joyful,1
+I bought a bike from the store . ,I am going to ride it every day .,Joyful,1
+I bought a bike from the store . ,I need to learn how to ride it .,Joyful,1
+I buy the bike from the bike shop  . ,I will  enjoy  it .,Joyful,1
+I buy the bike from the bike shop  . ,I will enjoy  riding  it  .,Joyful,1
+I buy the bike from the bike shop  . ,I will be able to use it for a long time .,Joyful,1
+I buy the bike from the bike shop  . ,I will feel accomplished .,Joyful,1
+I accept the terms of my new job . ,I will receive a signing bonus .,Joyful,1
+I accept the terms of my new job . ,I will be happy with my decision .,Joyful,1
+I accept the terms of my new job . ,I will get a big raise .,Joyful,1
+I accept the terms of my new job . ,I am going to be able to work from home one day a week .,Joyful,1
+I accidentally put my shirt on backwards this morning and didn't realize it until I got to work  . ,people will think I am a fashion icon .,Surprised,1
+I was watching the game from the stands  . ,hat I should have brought binoculars .,Surprised,1
+I was watching the game from the stands  . ,y team will win .,Joyful,1
+I was watching the game from the stands  . ,he team would  win .,Joyful,1
+I was watching the game from the stands  . ,I will catch a home run ball .,Joyful,1
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . ,will be successful  .,Joyful,1
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . ,will be a great event .,Joyful,1
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . ,I will be able to give back and help others .,Joyful,1
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . ,we will have enough to feed everyone .,Joyful,1
+My church is hosting a Thanksgiving dinner for the community and I'm helping to bring together the food . ,will be a great way to show our church's love .,Joyful,1
+I love shopping online for new clothes and shoes . ,I will find the perfect outfit .,Joyful,1
+I love shopping online for new clothes and shoes . ,I will get a great deal .,Joyful,1
+"I'm about to run out of gas , so I need to find a gas station soon  . ",hat I'll be able to find one before my car completely runs out of gas .,Joyful,1
+"I'm about to run out of gas , so I need to find a gas station soon  . ",I'll be okay .,Joyful,1
+"I'm about to run out of gas , so I need to find a gas station soon  . ",I will find a gas station soon  .,Joyful,1
+"I'm about to run out of gas , so I need to find a gas station soon  . ",I will make it to the next exit .,Joyful,1
+"I'm about to run out of gas , so I need to find a gas station soon  . ",I will make it to the gas station before my car runs out of gas .,Joyful,1
+I have accepted an all-inclusive trip to Hawaii from my boss . ,I will enjoy my time there .,Joyful,1
+I have accepted an all-inclusive trip to Hawaii from my boss . ,I hit the jackpot .,Joyful,1
+I have accepted an all-inclusive trip to Hawaii from my boss . ,I will earn a raise .,Joyful,1
+I have accepted an all-inclusive trip to Hawaii from my boss . ,I will be able to go on the trip .,Joyful,1
+I have accepted an all-inclusive trip to Hawaii from my boss . ,I will enjoy myself .,Joyful,1
+I accidentally dropped my phone in the pool  . ,will still work .,Surprised,1
+I accidentally dropped my phone in the pool  . ,going to be okay .,Surprised,1
+I accept my friends request to go on a date  . ,I will have a great time .,Joyful,1
+I accept my friends request to go on a date  . ,he is interested in me .,Joyful,1
+I brought together my old friends from high school  . ,we will have fun .,Joyful,1
+I brought together my old friends from high school  . ,we would have a great time .,Joyful,1
+I brought together my old friends from high school  . ,we had a great time reconnecting .,Joyful,1
+I brought together my old friends from high school  . ,we had great reunion .,Joyful,1
+I brought together my old friends from high school  . ,we had a lot of fun catching up .,Joyful,1
+I bought a bike from a second-hand store  . ,would be in good condition .,Surprised,1
+I bought a bike from a second-hand store  . ,will last me a long time .,Joyful,1
+I bought a bike from a second-hand store  . ,was a good deal .,Joyful,1
+I bought a bike from a second-hand store  . ,I saved a lot of money .,Joyful,1
+I bought a bike from a second-hand store  . ,I am going to get a lot of use out of it .,Joyful,1
+I continued to drive even though I was lost  . ,I would find my way .,Joyful,1
+I continued to drive even though I was lost  . ,I am going to find my way home .,Joyful,1
