@@ -34,32 +34,43 @@ export function BotMessage({
 }) {
   // Convert StreamableValue to string if needed
   let textContent = '';
+  let isError = false;
   
   try {
     textContent = typeof content === 'string' 
       ? content 
       : 'Loading response...';
       
-    // Check if content contains error messages and style them differently
+    // Check if content contains error messages
     if (typeof textContent === 'string' && 
         (textContent.includes('error') || 
          textContent.includes('Error') || 
          textContent.includes('sorry') || 
-         textContent.includes('Sorry'))) {
-      return (
-        <div className={cn('group relative flex items-start md:-ml-12', className)}>
-          <div className="flex size-[24px] shrink-0 select-none items-center justify-center rounded-md border bg-red-500 text-primary-foreground shadow-sm">
-            <IconOpenAI />
-          </div>
-          <div className="ml-4 flex-1 space-y-2 overflow-hidden px-1">
-            <div className="text-red-500 font-medium">{textContent}</div>
-          </div>
-        </div>
-      );
+         textContent.includes('Sorry') ||
+         textContent.includes('API key') ||
+         textContent.includes('rate limit') ||
+         textContent.includes('timed out') ||
+         textContent.includes('mock response'))) {
+      isError = true;
     }
   } catch (e) {
     console.error('Error in BotMessage:', e);
     textContent = 'An error occurred while displaying this message.';
+    isError = true;
+  }
+
+  // For error messages, display a simpler UI with error formatting
+  if (isError) {
+    return (
+      <div className={cn('group relative flex items-start md:-ml-12', className)}>
+        <div className="flex size-[24px] shrink-0 select-none items-center justify-center rounded-md border bg-red-500 text-primary-foreground shadow-sm">
+          <IconOpenAI />
+        </div>
+        <div className="ml-4 flex-1 space-y-2 overflow-hidden px-1">
+          <div className="text-red-500 font-medium">{textContent}</div>
+        </div>
+      </div>
+    );
   }
 
   return (

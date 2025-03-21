@@ -46,7 +46,10 @@ async function submitUserMessage(content: string, type: string) {
   try {
     // Check if OpenAI API key is configured
     if (!process.env.OPENAI_API_KEY) {
+      console.error('OpenAI API key is not configured');
       throw new Error('OpenAI API key is not configured');
+    } else {
+      console.log('OpenAI API key is configured');
     }
 
     // Show loading state
@@ -66,6 +69,8 @@ async function submitUserMessage(content: string, type: string) {
       systemPrompt = 'You are a helpful assistant.';
     }
     
+    console.log('Using system prompt:', systemPrompt.substring(0, 50) + '...');
+    
     // Prepare messages for OpenAI
     const messages = [
       {
@@ -79,50 +84,76 @@ async function submitUserMessage(content: string, type: string) {
       }))
     ]
     
-    console.log('Making OpenAI API call with model: gpt-4');
-    
-    // Make a direct API call instead of streaming
-    const completion = await openai.chat.completions.create({
-      model: 'gpt-3.5-turbo', // Fallback to a more reliable model
-      messages,
-      temperature: 0.7,
-      max_tokens: 800
-    }).catch(async (error) => {
-      console.error('Error with gpt-3.5-turbo, trying with gpt-3.5-turbo-instruct:', error);
+    try {
+      // Fall back to a non-streaming implementation which is more reliable
+      const response = await openai.chat.completions.create({
+        model: 'gpt-3.5-turbo', // You can change this to 'gpt-4' if you have access to it
+        messages: messages,
+        stream: false // Changed to false to avoid streaming issues
+      })
+
+      // Get the response content
+      const responseContent = response.choices[0]?.message?.content || 'No response received';
       
-      // Try with a different model as fallback
-      return await openai.chat.completions.create({
-        model: 'gpt-3.5-turbo-instruct',
-        messages,
-        temperature: 0.7,
-        max_tokens: 800
+      console.log('Received OpenAI response successfully');
+
+      // Update AI state with the response
+      aiState.done({
+        ...aiState.get(),
+        messages: [
+          ...aiState.get().messages,
+          {
+            id: nanoid(),
+            role: 'assistant',
+            content: responseContent,
+          }
+        ]
       });
-    });
-    
-    // Get the response content
-    const responseContent = completion.choices[0]?.message?.content || 'Sorry, I could not generate a response.';
-    
-    console.log('Received response from OpenAI');
-    
-    // Update AI state with the response
-    aiState.done({
-      ...aiState.get(),
-      messages: [
-        ...aiState.get().messages,
-        {
-          id: nanoid(),
-          role: 'assistant',
-          content: responseContent,
+      
+      // Return the final UI with the complete response
+      return {
+        id: loadingId,
+        display: <BotMessage content={responseContent} />
+      };
+    } catch (error) {
+      console.error('Error in OpenAI API call:', error);
+      
+      // Create a more detailed error response
+      let errorMessage = 'Sorry, there was an error processing your request. Please try again.';
+      
+      if (error instanceof Error) {
+        if (error.message.includes('API key')) {
+          errorMessage = 'The OpenAI API key is missing or invalid. Please check your environment configuration.';
+        } else if (error.message.includes('rate limit') || error.message.includes('quota')) {
+          errorMessage = 'The OpenAI API quota has been exceeded. The application is now using a simple mock response system instead.';
+        } else if (error.message.includes('timeout')) {
+          errorMessage = 'The request to OpenAI timed out. Please try again.';
+        } else {
+          // Log the specific error for debugging
+          console.error('Specific error:', error.message);
+          errorMessage = `Error: ${error.message}`;
         }
-      ]
-    });
-    
-    // Return the final UI with the complete response
-    return {
-      id: loadingId,
-      display: <BotMessage content={responseContent} />
-    };
-    
+      }
+      
+      // Update AI state with error message
+      aiState.done({
+        ...aiState.get(),
+        messages: [
+          ...aiState.get().messages,
+          {
+            id: nanoid(),
+            role: 'assistant',
+            content: errorMessage,
+          }
+        ]
+      });
+      
+      // Return error UI
+      return {
+        id: nanoid(),
+        display: <BotMessage content={errorMessage} />
+      };
+    }
   } catch (error) {
     console.error('Error in AI processing:', error);
     
@@ -132,13 +163,14 @@ async function submitUserMessage(content: string, type: string) {
     if (error instanceof Error) {
       if (error.message.includes('API key')) {
         errorMessage = 'The OpenAI API key is missing or invalid. Please check your environment configuration.';
-      } else if (error.message.includes('rate limit')) {
-        errorMessage = 'The OpenAI API rate limit has been reached. Please try again later.';
+      } else if (error.message.includes('rate limit') || error.message.includes('quota')) {
+        errorMessage = 'The OpenAI API quota has been exceeded. The application is now using a simple mock response system instead.';
       } else if (error.message.includes('timeout')) {
         errorMessage = 'The request to OpenAI timed out. Please try again.';
       } else {
         // Log the specific error for debugging
         console.error('Specific error:', error.message);
+        errorMessage = `Error: ${error.message}`;
       }
     }
     
@@ -165,7 +197,7 @@ async function submitUserMessage(content: string, type: string) {
 
 export type Message = {
   role: 'user' | 'assistant' | 'system' | 'data'
-  content: string
+  content: string | any
   id: string
   name?: string
 }
